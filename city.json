@@ -1,0 +1,9470 @@
+[
+  {
+    "city": "Atlanta"
+  },
+  {
+    "city": "Chicago"
+  },
+  {
+    "city": "Beijing"
+  },
+  {
+    "city": "London"
+  },
+  {
+    "city": "Paris"
+  },
+  {
+    "city": "Los Angeles"
+  },
+  {
+    "city": "Frankfurt"
+  },
+  {
+    "city": "Dallas-Fort Worth"
+  },
+  {
+    "city": "Amsterdam"
+  },
+  {
+    "city": "Shanghai"
+  },
+  {
+    "city": "Singapore"
+  },
+  {
+    "city": "Barcelona"
+  },
+  {
+    "city": "Seoul"
+  },
+  {
+    "city": "Denver"
+  },
+  {
+    "city": "Miami"
+  },
+  {
+    "city": "Munich"
+  },
+  {
+    "city": "Istanbul"
+  },
+  {
+    "city": "Hong Kong"
+  },
+  {
+    "city": "Dubai"
+  },
+  {
+    "city": "Guangzhou"
+  },
+  {
+    "city": "Rome"
+  },
+  {
+    "city": "Madrid"
+  },
+  {
+    "city": "Bangkok"
+  },
+  {
+    "city": "Chengdu"
+  },
+  {
+    "city": "Toronto"
+  },
+  {
+    "city": "Brussels"
+  },
+  {
+    "city": "Manchester"
+  },
+  {
+    "city": "Vienna"
+  },
+  {
+    "city": "Charlotte"
+  },
+  {
+    "city": "Philadelphia"
+  },
+  {
+    "city": "Tokyo"
+  },
+  {
+    "city": "Duesseldorf"
+  },
+  {
+    "city": "Xi'an"
+  },
+  {
+    "city": "Palma de Mallorca"
+  },
+  {
+    "city": "Kunming"
+  },
+  {
+    "city": "Chongqing"
+  },
+  {
+    "city": "Delhi"
+  },
+  {
+    "city": "Taipei"
+  },
+  {
+    "city": "Kuala Lumpur"
+  },
+  {
+    "city": "Phoenix"
+  },
+  {
+    "city": "Hangzhou"
+  },
+  {
+    "city": "Newark"
+  },
+  {
+    "city": "San Francisco"
+  },
+  {
+    "city": "Las Vegas"
+  },
+  {
+    "city": "Zurich"
+  },
+  {
+    "city": "Houston"
+  },
+  {
+    "city": "Mexico City"
+  },
+  {
+    "city": "Abu Dhabi"
+  },
+  {
+    "city": "Orlando"
+  },
+  {
+    "city": "Shenzhen"
+  },
+  {
+    "city": "Xiamen"
+  },
+  {
+    "city": "Copenhagen"
+  },
+  {
+    "city": "Mumbai"
+  },
+  {
+    "city": "Stockholm"
+  },
+  {
+    "city": "Lisbon"
+  },
+  {
+    "city": "Detroit"
+  },
+  {
+    "city": "Minneapolis"
+  },
+  {
+    "city": "Boston"
+  },
+  {
+    "city": "Berlin"
+  },
+  {
+    "city": "Dublin"
+  },
+  {
+    "city": "Sydney"
+  },
+  {
+    "city": "Malaga"
+  },
+  {
+    "city": "Athens"
+  },
+  {
+    "city": "Seattle"
+  },
+  {
+    "city": "Moscow"
+  },
+  {
+    "city": "Washington"
+  },
+  {
+    "city": "Sao Paulo"
+  },
+  {
+    "city": "Manila"
+  },
+  {
+    "city": "Milano"
+  },
+  {
+    "city": "Changcha"
+  },
+  {
+    "city": "Doha"
+  },
+  {
+    "city": "Jeddah"
+  },
+  {
+    "city": "Qingdao"
+  },
+  {
+    "city": "Fort Lauderdale"
+  },
+  {
+    "city": "Wuhan"
+  },
+  {
+    "city": "Montreal"
+  },
+  {
+    "city": "Jakarta"
+  },
+  {
+    "city": "Oslo"
+  },
+  {
+    "city": "Prague"
+  },
+  {
+    "city": "Zhengzhou"
+  },
+  {
+    "city": "Nanjing"
+  },
+  {
+    "city": "Geneva"
+  },
+  {
+    "city": "Johannesburg"
+  },
+  {
+    "city": "Hamburg"
+  },
+  {
+    "city": "Helsinki"
+  },
+  {
+    "city": "Tenerife"
+  },
+  {
+    "city": "New York"
+  },
+  {
+    "city": "Vancouver"
+  },
+  {
+    "city": "Alicante"
+  },
+  {
+    "city": "Cancun"
+  },
+  {
+    "city": "Gran Canaria"
+  },
+  {
+    "city": "Bogota"
+  },
+  {
+    "city": "Urumqi"
+  },
+  {
+    "city": "Osaka"
+  },
+  {
+    "city": "Cairo"
+  },
+  {
+    "city": "Brisbane"
+  },
+  {
+    "city": "Tianjin"
+  },
+  {
+    "city": "Baltimore"
+  },
+  {
+    "city": "Dalian"
+  },
+  {
+    "city": "Salt Lake City"
+  },
+  {
+    "city": "Tampa"
+  },
+  {
+    "city": "Riyadh"
+  },
+  {
+    "city": "Lyon"
+  },
+  {
+    "city": "Guiyang"
+  },
+  {
+    "city": "Stuttgart"
+  },
+  {
+    "city": "Shenyang"
+  },
+  {
+    "city": "Tel-aviv"
+  },
+  {
+    "city": "Jinan"
+  },
+  {
+    "city": "Melbourne"
+  },
+  {
+    "city": "Nice"
+  },
+  {
+    "city": "Fuzhou"
+  },
+  {
+    "city": "Cologne"
+  },
+  {
+    "city": "Marseille"
+  },
+  {
+    "city": "Birmingham"
+  },
+  {
+    "city": "Harbin"
+  },
+  {
+    "city": "Nairobi"
+  },
+  {
+    "city": "Antalya"
+  },
+  {
+    "city": "Casablanca"
+  },
+  {
+    "city": "New Orleans"
+  },
+  {
+    "city": "Venice"
+  },
+  {
+    "city": "Warsaw"
+  },
+  {
+    "city": "Kuwait"
+  },
+  {
+    "city": "San Diego"
+  },
+  {
+    "city": "Edinburgh"
+  },
+  {
+    "city": "Honolulu"
+  },
+  {
+    "city": "Catania"
+  },
+  {
+    "city": "Las Palmas"
+  },
+  {
+    "city": "Portland"
+  },
+  {
+    "city": "Lima"
+  },
+  {
+    "city": "Nanning"
+  },
+  {
+    "city": "Calgary"
+  },
+  {
+    "city": "Bucharest"
+  },
+  {
+    "city": "Malta"
+  },
+  {
+    "city": "Amman"
+  },
+  {
+    "city": "St. Louis"
+  },
+  {
+    "city": "Taiyuan"
+  },
+  {
+    "city": "Heraklion"
+  },
+  {
+    "city": "Sanya"
+  },
+  {
+    "city": "Ho Chi Minh City"
+  },
+  {
+    "city": "Haikou"
+  },
+  {
+    "city": "Guilin"
+  },
+  {
+    "city": "Addis Ababa"
+  },
+  {
+    "city": "Auckland"
+  },
+  {
+    "city": "Panama City"
+  },
+  {
+    "city": "Madras"
+  },
+  {
+    "city": "Faro"
+  },
+  {
+    "city": "Muscat"
+  },
+  {
+    "city": "San Juan"
+  },
+  {
+    "city": "Colombo"
+  },
+  {
+    "city": "Riga"
+  },
+  {
+    "city": "Kiev"
+  },
+  {
+    "city": "Porto"
+  },
+  {
+    "city": "Ibiza"
+  },
+  {
+    "city": "Denpasar"
+  },
+  {
+    "city": "Bristol"
+  },
+  {
+    "city": "Yekaterinburg"
+  },
+  {
+    "city": "Brasilia"
+  },
+  {
+    "city": "Glasgow"
+  },
+  {
+    "city": "Bangalore"
+  },
+  {
+    "city": "Sharjah"
+  },
+  {
+    "city": "Budapest"
+  },
+  {
+    "city": "Kolkata"
+  },
+  {
+    "city": "Rio De Janeiro"
+  },
+  {
+    "city": "East Midlands"
+  },
+  {
+    "city": "Fuerteventura"
+  },
+  {
+    "city": "Larnaca"
+  },
+  {
+    "city": "Basel"
+  },
+  {
+    "city": "Guadalajara"
+  },
+  {
+    "city": "Nantes"
+  },
+  {
+    "city": "Perth"
+  },
+  {
+    "city": "Caracas"
+  },
+  {
+    "city": "Novosibirsk"
+  },
+  {
+    "city": "Algier"
+  },
+  {
+    "city": "Bologna"
+  },
+  {
+    "city": "Tunis"
+  },
+  {
+    "city": "Hohhot"
+  },
+  {
+    "city": "Hanoi"
+  },
+  {
+    "city": "Thessaloniki"
+  },
+  {
+    "city": "Nanchang"
+  },
+  {
+    "city": "Belgrade"
+  },
+  {
+    "city": "Fukuoka"
+  },
+  {
+    "city": "Bahrain"
+  },
+  {
+    "city": "Nagoya"
+  },
+  {
+    "city": "Lanzhou"
+  },
+  {
+    "city": "Ninbo"
+  },
+  {
+    "city": "Charleroi"
+  },
+  {
+    "city": "Rhodos"
+  },
+  {
+    "city": "Austin"
+  },
+  {
+    "city": "Raleigh-durham"
+  },
+  {
+    "city": "Newcastle"
+  },
+  {
+    "city": "Shijiazhuang"
+  },
+  {
+    "city": "Nashville"
+  },
+  {
+    "city": "Dammam"
+  },
+  {
+    "city": "Valencia"
+  },
+  {
+    "city": "Wenzhou"
+  },
+  {
+    "city": "Sapporo"
+  },
+  {
+    "city": "Bergamo"
+  },
+  {
+    "city": "Cleveland"
+  },
+  {
+    "city": "Toulouse"
+  },
+  {
+    "city": "Leeds"
+  },
+  {
+    "city": "Tashkent"
+  },
+  {
+    "city": "Busan"
+  },
+  {
+    "city": "Kansas City"
+  },
+  {
+    "city": "Macau"
+  },
+  {
+    "city": "Santiago"
+  },
+  {
+    "city": "Naples"
+  },
+  {
+    "city": "Hefei"
+  },
+  {
+    "city": "Hannover"
+  },
+  {
+    "city": "Pisa"
+  },
+  {
+    "city": "Cincinnati"
+  },
+  {
+    "city": "Buenos Aires"
+  },
+  {
+    "city": "San Jose"
+  },
+  {
+    "city": "Pittsburgh"
+  },
+  {
+    "city": "Dhaka"
+  },
+  {
+    "city": "Hyderabad"
+  },
+  {
+    "city": "Monterrey"
+  },
+  {
+    "city": "Marrakech"
+  },
+  {
+    "city": "Punta Cana"
+  },
+  {
+    "city": "Luxemburg"
+  },
+  {
+    "city": "Edmonton"
+  },
+  {
+    "city": "Indianapolis"
+  },
+  {
+    "city": "Phuket"
+  },
+  {
+    "city": "Bergen"
+  },
+  {
+    "city": "San Antonio"
+  },
+  {
+    "city": "Eindhoven"
+  },
+  {
+    "city": "Nassau"
+  },
+  {
+    "city": "Alma-ata"
+  },
+  {
+    "city": "Bordeaux"
+  },
+  {
+    "city": "Dakar"
+  },
+  {
+    "city": "Beirut"
+  },
+  {
+    "city": "Izmir"
+  },
+  {
+    "city": "Sofia"
+  },
+  {
+    "city": "Changchun"
+  },
+  {
+    "city": "Yinchuan"
+  },
+  {
+    "city": "Surabaya"
+  },
+  {
+    "city": "Lijiang"
+  },
+  {
+    "city": "Kaohsiung"
+  },
+  {
+    "city": "Mashhad"
+  },
+  {
+    "city": "Fort Myers"
+  },
+  {
+    "city": "Columbus"
+  },
+  {
+    "city": "Baku"
+  },
+  {
+    "city": "Bilbao"
+  },
+  {
+    "city": "Sevilla"
+  },
+  {
+    "city": "Palermo"
+  },
+  {
+    "city": "Milwaukee"
+  },
+  {
+    "city": "Karachi"
+  },
+  {
+    "city": "Teheran"
+  },
+  {
+    "city": "Okinawa"
+  },
+  {
+    "city": "Tehran"
+  },
+  {
+    "city": "Dubrovnik"
+  },
+  {
+    "city": "Milan"
+  },
+  {
+    "city": "Beauvais"
+  },
+  {
+    "city": "Zhuhai"
+  },
+  {
+    "city": "Lagos"
+  },
+  {
+    "city": "Anchorage"
+  },
+  {
+    "city": "Kochi"
+  },
+  {
+    "city": "Cheju"
+  },
+  {
+    "city": "Islamabad"
+  },
+  {
+    "city": "Liverpool"
+  },
+  {
+    "city": "Vilnius"
+  },
+  {
+    "city": "Salvador"
+  },
+  {
+    "city": "Dalaman"
+  },
+  {
+    "city": "Krakow"
+  },
+  {
+    "city": "Philipsburg"
+  },
+  {
+    "city": "Campinas"
+  },
+  {
+    "city": "Memphis"
+  },
+  {
+    "city": "Yantai"
+  },
+  {
+    "city": "Ujung Pandang"
+  },
+  {
+    "city": "Oakland"
+  },
+  {
+    "city": "Lahore"
+  },
+  {
+    "city": "Cairns"
+  },
+  {
+    "city": "Belo Horizonte"
+  },
+  {
+    "city": "Sacramento"
+  },
+  {
+    "city": "Minsk 2"
+  },
+  {
+    "city": "Accra"
+  },
+  {
+    "city": "Gothenborg"
+  },
+  {
+    "city": "Stavanger"
+  },
+  {
+    "city": "Dushanbe"
+  },
+  {
+    "city": "Florence"
+  },
+  {
+    "city": "San Salvador"
+  },
+  {
+    "city": "Ankara"
+  },
+  {
+    "city": "Funchal"
+  },
+  {
+    "city": "Kota Kinabalu"
+  },
+  {
+    "city": "Tselinograd"
+  },
+  {
+    "city": "Olbia"
+  },
+  {
+    "city": "Windsor Locks"
+  },
+  {
+    "city": "Kerkyra/corfu"
+  },
+  {
+    "city": "Port Moresby"
+  },
+  {
+    "city": "Adelaide"
+  },
+  {
+    "city": "Abidjan"
+  },
+  {
+    "city": "Gdansk"
+  },
+  {
+    "city": "San Jose Del Cabo"
+  },
+  {
+    "city": "Bremen"
+  },
+  {
+    "city": "Bari"
+  },
+  {
+    "city": "Xining"
+  },
+  {
+    "city": "Yangon"
+  },
+  {
+    "city": "Douala"
+  },
+  {
+    "city": "Madinah"
+  },
+  {
+    "city": "Gerona"
+  },
+  {
+    "city": "Cebu"
+  },
+  {
+    "city": "Sanford"
+  },
+  {
+    "city": "Split"
+  },
+  {
+    "city": "Halifax"
+  },
+  {
+    "city": "Chiang Mai"
+  },
+  {
+    "city": "Nuernberg"
+  },
+  {
+    "city": "Tripoli"
+  },
+  {
+    "city": "Wuxi"
+  },
+  {
+    "city": "Billund"
+  },
+  {
+    "city": "Hahn"
+  },
+  {
+    "city": "Santo Domingo"
+  },
+  {
+    "city": "Luanda"
+  },
+  {
+    "city": "Krasnoyarsk"
+  },
+  {
+    "city": "Puerto Vallarta"
+  },
+  {
+    "city": "Jacksonville"
+  },
+  {
+    "city": "Krasnodar"
+  },
+  {
+    "city": "Keflavik"
+  },
+  {
+    "city": "Enfidha"
+  },
+  {
+    "city": "Darwin"
+  },
+  {
+    "city": "Yerevan"
+  },
+  {
+    "city": "Bishkek"
+  },
+  {
+    "city": "Oranjestad"
+  },
+  {
+    "city": "Chania"
+  },
+  {
+    "city": "Kos"
+  },
+  {
+    "city": "Montego Bay"
+  },
+  {
+    "city": "Ottawa"
+  },
+  {
+    "city": "Quanzhou"
+  },
+  {
+    "city": "West Palm Beach"
+  },
+  {
+    "city": "Kathmandu"
+  },
+  {
+    "city": "Havana"
+  },
+  {
+    "city": "Cape Town"
+  },
+  {
+    "city": "Trondheim"
+  },
+  {
+    "city": "Santa Ana"
+  },
+  {
+    "city": "Porto Alegre"
+  },
+  {
+    "city": "Curitiba"
+  },
+  {
+    "city": "Torino"
+  },
+  {
+    "city": "Cagliari"
+  },
+  {
+    "city": "Male"
+  },
+  {
+    "city": "Zagreb"
+  },
+  {
+    "city": "Paphos"
+  },
+  {
+    "city": "Kahului"
+  },
+  {
+    "city": "Penang"
+  },
+  {
+    "city": "Trivandrum"
+  },
+  {
+    "city": "Albuquerque"
+  },
+  {
+    "city": "Louisville"
+  },
+  {
+    "city": "Nandi"
+  },
+  {
+    "city": "Tijuana"
+  },
+  {
+    "city": "Plaisance"
+  },
+  {
+    "city": "Aberdeen"
+  },
+  {
+    "city": "Irkutsk"
+  },
+  {
+    "city": "Oklahoma City"
+  },
+  {
+    "city": "Alexandria"
+  },
+  {
+    "city": "Siem-reap"
+  },
+  {
+    "city": "Winnipeg"
+  },
+  {
+    "city": "Khartoum"
+  },
+  {
+    "city": "Cotonou"
+  },
+  {
+    "city": "Lille"
+  },
+  {
+    "city": "Leipzig"
+  },
+  {
+    "city": "Hurghada"
+  },
+  {
+    "city": "Quito"
+  },
+  {
+    "city": "Shiraz"
+  },
+  {
+    "city": "Ajaccio"
+  },
+  {
+    "city": "Kigali"
+  },
+  {
+    "city": "Papeete"
+  },
+  {
+    "city": "Sharm El Sheikh"
+  },
+  {
+    "city": "Guatemala City"
+  },
+  {
+    "city": "Villafranca"
+  },
+  {
+    "city": "Jersey"
+  },
+  {
+    "city": "Weeze"
+  },
+  {
+    "city": "Tallinn-ulemiste International"
+  },
+  {
+    "city": "Richmond"
+  },
+  {
+    "city": "Yakutsk"
+  },
+  {
+    "city": "Treviso"
+  },
+  {
+    "city": "Sanaa"
+  },
+  {
+    "city": "Dallas"
+  },
+  {
+    "city": "Khabarovsk"
+  },
+  {
+    "city": "Sandefjord"
+  },
+  {
+    "city": "Rygge"
+  },
+  {
+    "city": "Changzhou"
+  },
+  {
+    "city": "Norfolk"
+  },
+  {
+    "city": "Djerba"
+  },
+  {
+    "city": "Balikpapan"
+  },
+  {
+    "city": "Recife"
+  },
+  {
+    "city": "Christchurch"
+  },
+  {
+    "city": "Bastia"
+  },
+  {
+    "city": "Tirana"
+  },
+  {
+    "city": "Shantou"
+  },
+  {
+    "city": "Buffalo"
+  },
+  {
+    "city": "Guayaquil"
+  },
+  {
+    "city": "Fortaleza"
+  },
+  {
+    "city": "Belfast"
+  },
+  {
+    "city": "Ahmedabad"
+  },
+  {
+    "city": "Port-of-spain"
+  },
+  {
+    "city": "Belem"
+  },
+  {
+    "city": "Agana"
+  },
+  {
+    "city": "Menorca"
+  },
+  {
+    "city": "Tbilisi"
+  },
+  {
+    "city": "Charleston"
+  },
+  {
+    "city": "Omaha"
+  },
+  {
+    "city": "Antigua"
+  },
+  {
+    "city": "Salzburg"
+  },
+  {
+    "city": "Strasbourg"
+  },
+  {
+    "city": "Cork"
+  },
+  {
+    "city": "Myrtle Beach"
+  },
+  {
+    "city": "Pune"
+  },
+  {
+    "city": "Oran"
+  },
+  {
+    "city": "Chisinau"
+  },
+  {
+    "city": "Lusaka"
+  },
+  {
+    "city": "Dortmund"
+  },
+  {
+    "city": "Entebbe"
+  },
+  {
+    "city": "Dar Es Salaam"
+  },
+  {
+    "city": "Wroclaw"
+  },
+  {
+    "city": "Khudzhand"
+  },
+  {
+    "city": "Rotterdam"
+  },
+  {
+    "city": "Southampton"
+  },
+  {
+    "city": "Danang"
+  },
+  {
+    "city": "St. Thomas"
+  },
+  {
+    "city": "Cuiaba"
+  },
+  {
+    "city": "Ouagadougou"
+  },
+  {
+    "city": "Ljubljana"
+  },
+  {
+    "city": "Mesa"
+  },
+  {
+    "city": "Dayton"
+  },
+  {
+    "city": "Manaus"
+  },
+  {
+    "city": "Wellington"
+  },
+  {
+    "city": "Guwahati"
+  },
+  {
+    "city": "Cardiff"
+  },
+  {
+    "city": "Bodrum"
+  },
+  {
+    "city": "Willemstad"
+  },
+  {
+    "city": "Knoxville"
+  },
+  {
+    "city": "Tucson"
+  },
+  {
+    "city": "St. Petersburg"
+  },
+  {
+    "city": "Sendai"
+  },
+  {
+    "city": "Providenciales"
+  },
+  {
+    "city": "Alghero"
+  },
+  {
+    "city": "Calicut"
+  },
+  {
+    "city": "Phnom-penh"
+  },
+  {
+    "city": "Lhasa"
+  },
+  {
+    "city": "Erbil"
+  },
+  {
+    "city": "Albany"
+  },
+  {
+    "city": "Rochester"
+  },
+  {
+    "city": "Osh"
+  },
+  {
+    "city": "Abuja"
+  },
+  {
+    "city": "Peshawar"
+  },
+  {
+    "city": "Yuncheng"
+  },
+  {
+    "city": "Baotou"
+  },
+  {
+    "city": "Shannon"
+  },
+  {
+    "city": "Greenville"
+  },
+  {
+    "city": "Yogyakarta"
+  },
+  {
+    "city": "Little Rock"
+  },
+  {
+    "city": "Goa"
+  },
+  {
+    "city": "Pointe-a-pitre"
+  },
+  {
+    "city": "Taichung"
+  },
+  {
+    "city": "Yellowknife"
+  },
+  {
+    "city": "Kingston"
+  },
+  {
+    "city": "Des Moines"
+  },
+  {
+    "city": "Bethel"
+  },
+  {
+    "city": "Cali"
+  },
+  {
+    "city": "Quebec"
+  },
+  {
+    "city": "Harare"
+  },
+  {
+    "city": "Katowice"
+  },
+  {
+    "city": "Reno"
+  },
+  {
+    "city": "Grand Rapids"
+  },
+  {
+    "city": "Coolangatta"
+  },
+  {
+    "city": "Kazan"
+  },
+  {
+    "city": "Rostov"
+  },
+  {
+    "city": "Port-vila"
+  },
+  {
+    "city": "Belize City"
+  },
+  {
+    "city": "Trapani"
+  },
+  {
+    "city": "Agadir"
+  },
+  {
+    "city": "Tulsa"
+  },
+  {
+    "city": "Providence"
+  },
+  {
+    "city": "Bamako"
+  },
+  {
+    "city": "Kinshasa"
+  },
+  {
+    "city": "Antananarivo"
+  },
+  {
+    "city": "Samara"
+  },
+  {
+    "city": "Batam"
+  },
+  {
+    "city": "Fairbanks"
+  },
+  {
+    "city": "Kabul"
+  },
+  {
+    "city": "Tromso"
+  },
+  {
+    "city": "Huangshan"
+  },
+  {
+    "city": "Syracuse"
+  },
+  {
+    "city": "Kuching"
+  },
+  {
+    "city": "Sochi"
+  },
+  {
+    "city": "Vladivostok"
+  },
+  {
+    "city": "Rio Negro"
+  },
+  {
+    "city": "Zadar"
+  },
+  {
+    "city": "Brazzaville"
+  },
+  {
+    "city": "Greensboro"
+  },
+  {
+    "city": "Palm Springs"
+  },
+  {
+    "city": "La Paz"
+  },
+  {
+    "city": "Georgetown"
+  },
+  {
+    "city": "Dongsheng"
+  },
+  {
+    "city": "Ontario"
+  },
+  {
+    "city": "Vientiane"
+  },
+  {
+    "city": "Lamezia"
+  },
+  {
+    "city": "Benghazi"
+  },
+  {
+    "city": "Exeter"
+  },
+  {
+    "city": "Nome"
+  },
+  {
+    "city": "Libreville"
+  },
+  {
+    "city": "Yichang"
+  },
+  {
+    "city": "Bentonville"
+  },
+  {
+    "city": "Honiara"
+  },
+  {
+    "city": "Jinghong"
+  },
+  {
+    "city": "Miri"
+  },
+  {
+    "city": "Santa Cruz"
+  },
+  {
+    "city": "Ahwaz"
+  },
+  {
+    "city": "Port-au-prince"
+  },
+  {
+    "city": "Hermosillo"
+  },
+  {
+    "city": "Skopje"
+  },
+  {
+    "city": "Montpellier"
+  },
+  {
+    "city": "Rankin Inlet"
+  },
+  {
+    "city": "El Paso"
+  },
+  {
+    "city": "Ponta Delgada"
+  },
+  {
+    "city": "Memmingen"
+  },
+  {
+    "city": "Savannah"
+  },
+  {
+    "city": "White Plains"
+  },
+  {
+    "city": "Bandar Seri Begawan"
+  },
+  {
+    "city": "Ufa"
+  },
+  {
+    "city": "Fort-de-france"
+  },
+  {
+    "city": "Bridgetown"
+  },
+  {
+    "city": "Montevideo"
+  },
+  {
+    "city": "San Pedro Sula"
+  },
+  {
+    "city": "Tyumen"
+  },
+  {
+    "city": "Kotzebue"
+  },
+  {
+    "city": "Liberia"
+  },
+  {
+    "city": "Akron"
+  },
+  {
+    "city": "Aden"
+  },
+  {
+    "city": "Ketchikan"
+  },
+  {
+    "city": "Dresden"
+  },
+  {
+    "city": "Mineralnye Vody"
+  },
+  {
+    "city": "Sept-iles"
+  },
+  {
+    "city": "Brindisi"
+  },
+  {
+    "city": "Freetown"
+  },
+  {
+    "city": "Mianyang"
+  },
+  {
+    "city": "Goiania"
+  },
+  {
+    "city": "St. John's"
+  },
+  {
+    "city": "Jerez"
+  },
+  {
+    "city": "Durban"
+  },
+  {
+    "city": "Poznan"
+  },
+  {
+    "city": "Dayong"
+  },
+  {
+    "city": "Prestwick"
+  },
+  {
+    "city": "Aktau"
+  },
+  {
+    "city": "Bandung"
+  },
+  {
+    "city": "Lihue"
+  },
+  {
+    "city": "Pensacola"
+  },
+  {
+    "city": "Manado"
+  },
+  {
+    "city": "Florianopolis"
+  },
+  {
+    "city": "Pristina"
+  },
+  {
+    "city": "Cluj-napoca"
+  },
+  {
+    "city": "Aalborg"
+  },
+  {
+    "city": "Kona"
+  },
+  {
+    "city": "Boise"
+  },
+  {
+    "city": "Ulan Bator"
+  },
+  {
+    "city": "Lome"
+  },
+  {
+    "city": "Kilimanjaro"
+  },
+  {
+    "city": "St.-denis"
+  },
+  {
+    "city": "Beihai"
+  },
+  {
+    "city": "Karlsruhe/Baden-Baden"
+  },
+  {
+    "city": "Isfahan"
+  },
+  {
+    "city": "Xuzhou"
+  },
+  {
+    "city": "Djibouti"
+  },
+  {
+    "city": "Lexington KY"
+  },
+  {
+    "city": "Manchester NH"
+  },
+  {
+    "city": "Fresno"
+  },
+  {
+    "city": "Juneau"
+  },
+  {
+    "city": "Wichita"
+  },
+  {
+    "city": "Chelyabinsk"
+  },
+  {
+    "city": "Bratislava"
+  },
+  {
+    "city": "Genoa"
+  },
+  {
+    "city": "Calvi"
+  },
+  {
+    "city": "Murcia"
+  },
+  {
+    "city": "Harrisburg"
+  },
+  {
+    "city": "Porlamar"
+  },
+  {
+    "city": "Reus"
+  },
+  {
+    "city": "Zhanjiang"
+  },
+  {
+    "city": "Bournemouth"
+  },
+  {
+    "city": "Yaounde"
+  },
+  {
+    "city": "Windhoek"
+  },
+  {
+    "city": "Kaunas"
+  },
+  {
+    "city": "Ribeirao Preto"
+  },
+  {
+    "city": "Bandar Abbas"
+  },
+  {
+    "city": "Graz"
+  },
+  {
+    "city": "Santander"
+  },
+  {
+    "city": "Tanger"
+  },
+  {
+    "city": "Odessa"
+  },
+  {
+    "city": "Hewandorra"
+  },
+  {
+    "city": "Yangzhou"
+  },
+  {
+    "city": "Pointe-noire"
+  },
+  {
+    "city": "Yiwu"
+  },
+  {
+    "city": "Linyi"
+  },
+  {
+    "city": "El Aroui"
+  },
+  {
+    "city": "Iqaluit"
+  },
+  {
+    "city": "Nantong"
+  },
+  {
+    "city": "Guernsey"
+  },
+  {
+    "city": "Nizhniy Novgorod"
+  },
+  {
+    "city": "Conakry"
+  },
+  {
+    "city": "Huntsville"
+  },
+  {
+    "city": "Burbank"
+  },
+  {
+    "city": "Long Beach"
+  },
+  {
+    "city": "Jackson"
+  },
+  {
+    "city": "Hailar"
+  },
+  {
+    "city": "Johor Bahru"
+  },
+  {
+    "city": "Pekanbaru"
+  },
+  {
+    "city": "Ko Samui"
+  },
+  {
+    "city": "Lucknow"
+  },
+  {
+    "city": "Vishakhapatnam"
+  },
+  {
+    "city": "Asuncion"
+  },
+  {
+    "city": "Kalibo"
+  },
+  {
+    "city": "Kagoshima"
+  },
+  {
+    "city": "Tegucigalpa"
+  },
+  {
+    "city": "Almeria"
+  },
+  {
+    "city": "Fes"
+  },
+  {
+    "city": "Punta Gorda"
+  },
+  {
+    "city": "Bodo"
+  },
+  {
+    "city": "Cedar Rapids"
+  },
+  {
+    "city": "Jayapura"
+  },
+  {
+    "city": "Dominica"
+  },
+  {
+    "city": "Amilcar Cabral"
+  },
+  {
+    "city": "Maputo"
+  },
+  {
+    "city": "Yancheng"
+  },
+  {
+    "city": "Praia"
+  },
+  {
+    "city": "Semarang"
+  },
+  {
+    "city": "Columbia"
+  },
+  {
+    "city": "Madison"
+  },
+  {
+    "city": "Pulau"
+  },
+  {
+    "city": "Coimbatore"
+  },
+  {
+    "city": "Jaipur"
+  },
+  {
+    "city": "Omsk"
+  },
+  {
+    "city": "Lvov"
+  },
+  {
+    "city": "Niamey"
+  },
+  {
+    "city": "Campo Grande"
+  },
+  {
+    "city": "Hiroshima"
+  },
+  {
+    "city": "Kanazawa"
+  },
+  {
+    "city": "Nagasaki"
+  },
+  {
+    "city": "Sioux Lookout"
+  },
+  {
+    "city": "Adana"
+  },
+  {
+    "city": "Brest"
+  },
+  {
+    "city": "Aviles"
+  },
+  {
+    "city": "Key West"
+  },
+  {
+    "city": "Islip"
+  },
+  {
+    "city": "Mandalay"
+  },
+  {
+    "city": "Yuzhno-sakhalinsk"
+  },
+  {
+    "city": "Kish Island"
+  },
+  {
+    "city": "Chihuahua"
+  },
+  {
+    "city": "Zakynthos"
+  },
+  {
+    "city": "Regina"
+  },
+  {
+    "city": "Praya"
+  },
+  {
+    "city": "Malmoe"
+  },
+  {
+    "city": "Lianyungang"
+  },
+  {
+    "city": "Jingdezhen"
+  },
+  {
+    "city": "Changzhi"
+  },
+  {
+    "city": "Niigata"
+  },
+  {
+    "city": "Novy Urengoy"
+  },
+  {
+    "city": "Jiuzhaigou"
+  },
+  {
+    "city": "Fort Wayne"
+  },
+  {
+    "city": "Chattanooga"
+  },
+  {
+    "city": "Townsville"
+  },
+  {
+    "city": "Krabi"
+  },
+  {
+    "city": "Chittagong"
+  },
+  {
+    "city": "Baghdogra"
+  },
+  {
+    "city": "Indore"
+  },
+  {
+    "city": "Vitoria"
+  },
+  {
+    "city": "Natal"
+  },
+  {
+    "city": "Constantine"
+  },
+  {
+    "city": "Vera Cruz"
+  },
+  {
+    "city": "Cozumel"
+  },
+  {
+    "city": "Culiacan"
+  },
+  {
+    "city": "Podgorica"
+  },
+  {
+    "city": "Sarajevo"
+  },
+  {
+    "city": "Monrovia"
+  },
+  {
+    "city": "Mangalore"
+  },
+  {
+    "city": "Monastir"
+  },
+  {
+    "city": "Sao Luis"
+  },
+  {
+    "city": "Wabush"
+  },
+  {
+    "city": "Thira"
+  },
+  {
+    "city": "Dzaoudzi"
+  },
+  {
+    "city": "Kelowna"
+  },
+  {
+    "city": "Wuyishan"
+  },
+  {
+    "city": "Chifeng"
+  },
+  {
+    "city": "Connaught"
+  },
+  {
+    "city": "Moline"
+  },
+  {
+    "city": "Bermuda"
+  },
+  {
+    "city": "Peoria"
+  },
+  {
+    "city": "Roanoke VA"
+  },
+  {
+    "city": "Tallahassee"
+  },
+  {
+    "city": "Spokane"
+  },
+  {
+    "city": "Nagpur"
+  },
+  {
+    "city": "Ashkhabad"
+  },
+  {
+    "city": "Kaliningrad"
+  },
+  {
+    "city": "Donetsk"
+  },
+  {
+    "city": "Uberlandia"
+  },
+  {
+    "city": "Tabriz"
+  },
+  {
+    "city": "Freeport"
+  },
+  {
+    "city": "Goose Bay"
+  },
+  {
+    "city": "Mazatlan"
+  },
+  {
+    "city": "Merida"
+  },
+  {
+    "city": "Saskatoon"
+  },
+  {
+    "city": "Pula"
+  },
+  {
+    "city": "Norilsk"
+  },
+  {
+    "city": "Banjarmasin"
+  },
+  {
+    "city": "Srinagar"
+  },
+  {
+    "city": "Point Salines"
+  },
+  {
+    "city": "Abha"
+  },
+  {
+    "city": "Managua"
+  },
+  {
+    "city": "Del Bajio"
+  },
+  {
+    "city": "Puerto Plata"
+  },
+  {
+    "city": "Malabo"
+  },
+  {
+    "city": "Yanji"
+  },
+  {
+    "city": "Huangyan"
+  },
+  {
+    "city": "Liuzhou"
+  },
+  {
+    "city": "Nicosia"
+  },
+  {
+    "city": "Southend"
+  },
+  {
+    "city": "Springfield"
+  },
+  {
+    "city": "Fargo"
+  },
+  {
+    "city": "Baghdad"
+  },
+  {
+    "city": "Santarem"
+  },
+  {
+    "city": "Davao"
+  },
+  {
+    "city": "Trenton"
+  },
+  {
+    "city": "Kota Bahru"
+  },
+  {
+    "city": "Ambon"
+  },
+  {
+    "city": "Surgut"
+  },
+  {
+    "city": "Nizhnevartovsk"
+  },
+  {
+    "city": "Dnepropetrovsk"
+  },
+  {
+    "city": "Maracaibo"
+  },
+  {
+    "city": "Ishigaki"
+  },
+  {
+    "city": "Quetta"
+  },
+  {
+    "city": "Marsh Harbor"
+  },
+  {
+    "city": "Roatan"
+  },
+  {
+    "city": "Figari"
+  },
+  {
+    "city": "Biarritz-bayonne"
+  },
+  {
+    "city": "Boa Vista"
+  },
+  {
+    "city": "Eugene"
+  },
+  {
+    "city": "Colorado Springs"
+  },
+  {
+    "city": "Burlington"
+  },
+  {
+    "city": "Palembang"
+  },
+  {
+    "city": "Avarua"
+  },
+  {
+    "city": "Toluca"
+  },
+  {
+    "city": "Thunder Bay"
+  },
+  {
+    "city": "Bujumbura"
+  },
+  {
+    "city": "Mahe"
+  },
+  {
+    "city": "Luzhou"
+  },
+  {
+    "city": "Zhoushan"
+  },
+  {
+    "city": "Ganzhou"
+  },
+  {
+    "city": "Xiangfan"
+  },
+  {
+    "city": "Tongliao"
+  },
+  {
+    "city": "Alesund"
+  },
+  {
+    "city": "Allentown"
+  },
+  {
+    "city": "Angeles City"
+  },
+  {
+    "city": "Flint"
+  },
+  {
+    "city": "Sarasota"
+  },
+  {
+    "city": "Charlottesville VA"
+  },
+  {
+    "city": "Sioux Falls"
+  },
+  {
+    "city": "Wilmington"
+  },
+  {
+    "city": "Friedrichshafen"
+  },
+  {
+    "city": "Kashi"
+  },
+  {
+    "city": "Canberra"
+  },
+  {
+    "city": "Mount Isa"
+  },
+  {
+    "city": "Luang Prabang"
+  },
+  {
+    "city": "Maceio"
+  },
+  {
+    "city": "Aracaju"
+  },
+  {
+    "city": "Cordoba"
+  },
+  {
+    "city": "Okayama"
+  },
+  {
+    "city": "Taif"
+  },
+  {
+    "city": "Noumea"
+  },
+  {
+    "city": "Villahermosa"
+  },
+  {
+    "city": "Victoria"
+  },
+  {
+    "city": "Timisoara"
+  },
+  {
+    "city": "Mykonos"
+  },
+  {
+    "city": "Rennes"
+  },
+  {
+    "city": "Mombasa"
+  },
+  {
+    "city": "Banjul"
+  },
+  {
+    "city": "Fort Mcmurray"
+  },
+  {
+    "city": "Aniak"
+  },
+  {
+    "city": "Tokua"
+  },
+  {
+    "city": "Patina"
+  },
+  {
+    "city": "Gassim"
+  },
+  {
+    "city": "Lilongwe"
+  },
+  {
+    "city": "Huai An"
+  },
+  {
+    "city": "Haugesund"
+  },
+  {
+    "city": "Wanxian"
+  },
+  {
+    "city": "Yulin"
+  },
+  {
+    "city": "Namangan"
+  },
+  {
+    "city": "Misratah"
+  },
+  {
+    "city": "Mogadishu"
+  },
+  {
+    "city": "Tampere"
+  },
+  {
+    "city": "Broome"
+  },
+  {
+    "city": "Bloomington"
+  },
+  {
+    "city": "Billings"
+  },
+  {
+    "city": "Asheville"
+  },
+  {
+    "city": "Kobe"
+  },
+  {
+    "city": "Gainesville"
+  },
+  {
+    "city": "Alice Springs"
+  },
+  {
+    "city": "Jammu"
+  },
+  {
+    "city": "Tortola"
+  },
+  {
+    "city": "Cartagena"
+  },
+  {
+    "city": "Foz Do Iguacu"
+  },
+  {
+    "city": "Matsuyama"
+  },
+  {
+    "city": "Multan"
+  },
+  {
+    "city": "Varadero"
+  },
+  {
+    "city": "Ciudad Juarez"
+  },
+  {
+    "city": "Bern"
+  },
+  {
+    "city": "Iasi"
+  },
+  {
+    "city": "La Coruna"
+  },
+  {
+    "city": "Bourgas"
+  },
+  {
+    "city": "Zanzibar"
+  },
+  {
+    "city": "Juba"
+  },
+  {
+    "city": "Sialkot"
+  },
+  {
+    "city": "Londrina"
+  },
+  {
+    "city": "Nausori"
+  },
+  {
+    "city": "Linz"
+  },
+  {
+    "city": "Mulhouse"
+  },
+  {
+    "city": "Nouakschott"
+  },
+  {
+    "city": "Fuyang"
+  },
+  {
+    "city": "Manzhouli"
+  },
+  {
+    "city": "Rzeszow"
+  },
+  {
+    "city": "Kristiansand"
+  },
+  {
+    "city": "Datong"
+  },
+  {
+    "city": "Belgorod"
+  },
+  {
+    "city": "Santo"
+  },
+  {
+    "city": "Kirkwall"
+  },
+  {
+    "city": "Isle Of Man"
+  },
+  {
+    "city": "South Bend"
+  },
+  {
+    "city": "San Pedro"
+  },
+  {
+    "city": "Nadzab"
+  },
+  {
+    "city": "Mukalla"
+  },
+  {
+    "city": "Chiang Rai"
+  },
+  {
+    "city": "Paderborn"
+  },
+  {
+    "city": "Munster"
+  },
+  {
+    "city": "Port Blair"
+  },
+  {
+    "city": "Raipur"
+  },
+  {
+    "city": "Mount Hagen"
+  },
+  {
+    "city": "Ulan-ude"
+  },
+  {
+    "city": "Chita"
+  },
+  {
+    "city": "Basse Terre"
+  },
+  {
+    "city": "Guayana"
+  },
+  {
+    "city": "Cuzco"
+  },
+  {
+    "city": "San Andres Island"
+  },
+  {
+    "city": "Medellin"
+  },
+  {
+    "city": "Antofagasta"
+  },
+  {
+    "city": "Teresina"
+  },
+  {
+    "city": "Maraba"
+  },
+  {
+    "city": "Joao Pessoa"
+  },
+  {
+    "city": "Miyazaki"
+  },
+  {
+    "city": "Zahedan"
+  },
+  {
+    "city": "Tivat"
+  },
+  {
+    "city": "Lajes (terceira Island)"
+  },
+  {
+    "city": "Ronchi De Legionari"
+  },
+  {
+    "city": "Preveza"
+  },
+  {
+    "city": "Limoges"
+  },
+  {
+    "city": "Bergerac"
+  },
+  {
+    "city": "Vigo"
+  },
+  {
+    "city": "Rabat"
+  },
+  {
+    "city": "Najaf"
+  },
+  {
+    "city": "Gustavia"
+  },
+  {
+    "city": "Inverness"
+  },
+  {
+    "city": "Porto Seguro"
+  },
+  {
+    "city": "Kupang"
+  },
+  {
+    "city": "Valparaiso"
+  },
+  {
+    "city": "Ranchi"
+  },
+  {
+    "city": "Chimkent"
+  },
+  {
+    "city": "Castries"
+  },
+  {
+    "city": "Mendoza"
+  },
+  {
+    "city": "Moroni"
+  },
+  {
+    "city": "Ndola"
+  },
+  {
+    "city": "Unalakleet"
+  },
+  {
+    "city": "Jining"
+  },
+  {
+    "city": "Hami"
+  },
+  {
+    "city": "La Rochelle"
+  },
+  {
+    "city": "Shizuoka"
+  },
+  {
+    "city": "Jiamusi"
+  },
+  {
+    "city": "Korla"
+  },
+  {
+    "city": "Alta"
+  },
+  {
+    "city": "Sulaymaniyah"
+  },
+  {
+    "city": "Norwich"
+  },
+  {
+    "city": "Atyrau"
+  },
+  {
+    "city": "Mudanjiang"
+  },
+  {
+    "city": "Ancona"
+  },
+  {
+    "city": "Yibin"
+  },
+  {
+    "city": "Monterey"
+  },
+  {
+    "city": "Bellingham"
+  },
+  {
+    "city": "Atlantic City"
+  },
+  {
+    "city": "Varanasi"
+  },
+  {
+    "city": "Volgograd"
+  },
+  {
+    "city": "Sfax"
+  },
+  {
+    "city": "Arequipa"
+  },
+  {
+    "city": "Zandery"
+  },
+  {
+    "city": "Barranquilla"
+  },
+  {
+    "city": "Puerto Montt"
+  },
+  {
+    "city": "Maringa"
+  },
+  {
+    "city": "Iloilo"
+  },
+  {
+    "city": "Hakodate"
+  },
+  {
+    "city": "Saipan"
+  },
+  {
+    "city": "Rasht"
+  },
+  {
+    "city": "Holguin"
+  },
+  {
+    "city": "Torreon"
+  },
+  {
+    "city": "Morelia"
+  },
+  {
+    "city": "La Romana"
+  },
+  {
+    "city": "Trabzon"
+  },
+  {
+    "city": "Prince George"
+  },
+  {
+    "city": "Mytilini"
+  },
+  {
+    "city": "Kalamata"
+  },
+  {
+    "city": "Carcassonne"
+  },
+  {
+    "city": "Moncton"
+  },
+  {
+    "city": "Luxor"
+  },
+  {
+    "city": "Oujda"
+  },
+  {
+    "city": "Lubumashi"
+  },
+  {
+    "city": "N'djamena"
+  },
+  {
+    "city": "Kharkov"
+  },
+  {
+    "city": "Maastricht"
+  },
+  {
+    "city": "Scranton"
+  },
+  {
+    "city": "Amarillo"
+  },
+  {
+    "city": "Lubbock"
+  },
+  {
+    "city": "Cochabamba"
+  },
+  {
+    "city": "Iquique"
+  },
+  {
+    "city": "Babelthuap"
+  },
+  {
+    "city": "Yenbo"
+  },
+  {
+    "city": "Quujjuaq"
+  },
+  {
+    "city": "Nampula"
+  },
+  {
+    "city": "Gaberone"
+  },
+  {
+    "city": "Port Elizabeth"
+  },
+  {
+    "city": "Sohag"
+  },
+  {
+    "city": "Godthaab"
+  },
+  {
+    "city": "Hatay"
+  },
+  {
+    "city": "Ji An"
+  },
+  {
+    "city": "Harstad/Narvik"
+  },
+  {
+    "city": "Dazhou"
+  },
+  {
+    "city": "Chongju"
+  },
+  {
+    "city": "Doncaster"
+  },
+  {
+    "city": "Upernavik"
+  },
+  {
+    "city": "Blackpool"
+  },
+  {
+    "city": "Arkhangelsk"
+  },
+  {
+    "city": "Luoyang"
+  },
+  {
+    "city": "Medford"
+  },
+  {
+    "city": "Appleton"
+  },
+  {
+    "city": "Gulfport"
+  },
+  {
+    "city": "Evansville"
+  },
+  {
+    "city": "Mobile"
+  },
+  {
+    "city": "Farmington"
+  },
+  {
+    "city": "Newport News"
+  },
+  {
+    "city": "Saarbruecken"
+  },
+  {
+    "city": "Hobart"
+  },
+  {
+    "city": "Sibu"
+  },
+  {
+    "city": "Tiruchirappalli"
+  },
+  {
+    "city": "Chandigarh"
+  },
+  {
+    "city": "Amritsar"
+  },
+  {
+    "city": "Imphal"
+  },
+  {
+    "city": "Syktyvkar"
+  },
+  {
+    "city": "Kralendijk"
+  },
+  {
+    "city": "St. Croix Island"
+  },
+  {
+    "city": "Porto Velho"
+  },
+  {
+    "city": "Ilheus"
+  },
+  {
+    "city": "Puerto Princesa"
+  },
+  {
+    "city": "Toyama"
+  },
+  {
+    "city": "Kumamoto"
+  },
+  {
+    "city": "Oita"
+  },
+  {
+    "city": "Annaba"
+  },
+  {
+    "city": "Tabuk"
+  },
+  {
+    "city": "Great Exuma"
+  },
+  {
+    "city": "Santa Clara"
+  },
+  {
+    "city": "Panama"
+  },
+  {
+    "city": "Zihuatanejo"
+  },
+  {
+    "city": "Aguascalientes"
+  },
+  {
+    "city": "Gaziantep"
+  },
+  {
+    "city": "Pescara"
+  },
+  {
+    "city": "Samos"
+  },
+  {
+    "city": "Beziers"
+  },
+  {
+    "city": "Clermont-Ferrand"
+  },
+  {
+    "city": "Granada"
+  },
+  {
+    "city": "Varna"
+  },
+  {
+    "city": "Belize"
+  },
+  {
+    "city": "Charlestown"
+  },
+  {
+    "city": "Midland"
+  },
+  {
+    "city": "Kodiak"
+  },
+  {
+    "city": "Liege"
+  },
+  {
+    "city": "Bhubaneswar"
+  },
+  {
+    "city": "Mirnyj"
+  },
+  {
+    "city": "Queenstown International"
+  },
+  {
+    "city": "Acapulco"
+  },
+  {
+    "city": "Pemba"
+  },
+  {
+    "city": "Comiso"
+  },
+  {
+    "city": "Bijie"
+  },
+  {
+    "city": "Sondrestrom"
+  },
+  {
+    "city": "Visby"
+  },
+  {
+    "city": "Umea"
+  },
+  {
+    "city": "Wuhai"
+  },
+  {
+    "city": "Setif"
+  },
+  {
+    "city": "Qiqihar"
+  },
+  {
+    "city": "Guangyuan"
+  },
+  {
+    "city": "Nanyang"
+  },
+  {
+    "city": "Changde"
+  },
+  {
+    "city": "Nadym"
+  },
+  {
+    "city": "Khanty-Mansiysk"
+  },
+  {
+    "city": "Salekhard"
+  },
+  {
+    "city": "Pasco"
+  },
+  {
+    "city": "Ust Kamenogorsk"
+  },
+  {
+    "city": "Aarhus"
+  },
+  {
+    "city": "Pierre"
+  },
+  {
+    "city": "Fayetteville"
+  },
+  {
+    "city": "Gheshm"
+  },
+  {
+    "city": "Red Lake"
+  },
+  {
+    "city": "Inuvik"
+  },
+  {
+    "city": "Turku"
+  },
+  {
+    "city": "Hammerfest"
+  },
+  {
+    "city": "Redmond-Bend"
+  },
+  {
+    "city": "Westerland"
+  },
+  {
+    "city": "Rapid City"
+  },
+  {
+    "city": "Grand Junction"
+  },
+  {
+    "city": "Bozeman"
+  },
+  {
+    "city": "Kutaisi"
+  },
+  {
+    "city": "Santa Barbara"
+  },
+  {
+    "city": "Solo City"
+  },
+  {
+    "city": "Baton Rouge"
+  },
+  {
+    "city": "Green Bay"
+  },
+  {
+    "city": "Shreveport"
+  },
+  {
+    "city": "Lansing"
+  },
+  {
+    "city": "Bangor"
+  },
+  {
+    "city": "Port Hedland"
+  },
+  {
+    "city": "Kununurra"
+  },
+  {
+    "city": "Launceston"
+  },
+  {
+    "city": "Sorong"
+  },
+  {
+    "city": "Ternate"
+  },
+  {
+    "city": "Heho"
+  },
+  {
+    "city": "Madurai"
+  },
+  {
+    "city": "Agartala"
+  },
+  {
+    "city": "Voronezh"
+  },
+  {
+    "city": "Astrakhan"
+  },
+  {
+    "city": "Trinidad"
+  },
+  {
+    "city": "Tarija"
+  },
+  {
+    "city": "Villavicencio"
+  },
+  {
+    "city": "Port Hartcourt"
+  },
+  {
+    "city": "Sao Jose Do Rio Preto"
+  },
+  {
+    "city": "Akita"
+  },
+  {
+    "city": "Takamatsu"
+  },
+  {
+    "city": "Miho"
+  },
+  {
+    "city": "Basrah"
+  },
+  {
+    "city": "Madang"
+  },
+  {
+    "city": "North Eleuthera"
+  },
+  {
+    "city": "Mont Joli"
+  },
+  {
+    "city": "Churchill"
+  },
+  {
+    "city": "Tuxtla Gutierrez"
+  },
+  {
+    "city": "San Luis Potosi"
+  },
+  {
+    "city": "Reynosa"
+  },
+  {
+    "city": "Innsbruck"
+  },
+  {
+    "city": "Zaragoza"
+  },
+  {
+    "city": "Santa Cruz De La Palma"
+  },
+  {
+    "city": "Vaxjo"
+  },
+  {
+    "city": "Kristiansund"
+  },
+  {
+    "city": "Urgench"
+  },
+  {
+    "city": "Deer Lake"
+  },
+  {
+    "city": "Asmara"
+  },
+  {
+    "city": "Harlingen"
+  },
+  {
+    "city": "Palu"
+  },
+  {
+    "city": "Orenburg"
+  },
+  {
+    "city": "Samarkand"
+  },
+  {
+    "city": "La Ceiba"
+  },
+  {
+    "city": "Kayseri"
+  },
+  {
+    "city": "Berbera"
+  },
+  {
+    "city": "Hargeisa"
+  },
+  {
+    "city": "Tete"
+  },
+  {
+    "city": "Beira"
+  },
+  {
+    "city": "Livingstone"
+  },
+  {
+    "city": "Maun"
+  },
+  {
+    "city": "Qianjiang"
+  },
+  {
+    "city": "Uummannaq"
+  },
+  {
+    "city": "Dangriga"
+  },
+  {
+    "city": "Nizhnekamsk"
+  },
+  {
+    "city": "Szczecin"
+  },
+  {
+    "city": "Molde"
+  },
+  {
+    "city": "Jiayuguan"
+  },
+  {
+    "city": "Qinhuangdao"
+  },
+  {
+    "city": "Anqing"
+  },
+  {
+    "city": "Weifang"
+  },
+  {
+    "city": "Shangri-La"
+  },
+  {
+    "city": "Xilinhot"
+  },
+  {
+    "city": "Ulanhot"
+  },
+  {
+    "city": "Hamilton Island"
+  },
+  {
+    "city": "Vinh"
+  },
+  {
+    "city": "Nha Trang"
+  },
+  {
+    "city": "Buonmethuot"
+  },
+  {
+    "city": "Fergana"
+  },
+  {
+    "city": "Cherepovets"
+  },
+  {
+    "city": "Cayo Coco"
+  },
+  {
+    "city": "Bissau"
+  },
+  {
+    "city": "Kuujjuarapik"
+  },
+  {
+    "city": "Qaqortoq"
+  },
+  {
+    "city": "Eskimo Point"
+  },
+  {
+    "city": "Jacksonville NC"
+  },
+  {
+    "city": "Karaganda"
+  },
+  {
+    "city": "Vadso"
+  },
+  {
+    "city": "Klagenfurt"
+  },
+  {
+    "city": "Dunhuang"
+  },
+  {
+    "city": "Missoula"
+  },
+  {
+    "city": "Palmas"
+  },
+  {
+    "city": "BRISTOL"
+  },
+  {
+    "city": "MONTGOMERY"
+  },
+  {
+    "city": "Dali"
+  },
+  {
+    "city": "Taiz"
+  },
+  {
+    "city": "Taraken"
+  },
+  {
+    "city": "Pangkalan Bun"
+  },
+  {
+    "city": "Pangkal Pinang"
+  },
+  {
+    "city": "Great Falls"
+  },
+  {
+    "city": "King Salmon"
+  },
+  {
+    "city": "Plattsburgh"
+  },
+  {
+    "city": "Galena"
+  },
+  {
+    "city": "Bush Field"
+  },
+  {
+    "city": "Karratha"
+  },
+  {
+    "city": "Mackay"
+  },
+  {
+    "city": "Kuala Terengganu"
+  },
+  {
+    "city": "Padang"
+  },
+  {
+    "city": "Tawau"
+  },
+  {
+    "city": "Bintulu"
+  },
+  {
+    "city": "Manokwari"
+  },
+  {
+    "city": "Silchar"
+  },
+  {
+    "city": "Udaipur"
+  },
+  {
+    "city": "Bhopal"
+  },
+  {
+    "city": "Murmansk"
+  },
+  {
+    "city": "Simferopol"
+  },
+  {
+    "city": "Aktyubinsk"
+  },
+  {
+    "city": "Iquitos"
+  },
+  {
+    "city": "Cayenne"
+  },
+  {
+    "city": "Kano"
+  },
+  {
+    "city": "La Serena"
+  },
+  {
+    "city": "Navegantes"
+  },
+  {
+    "city": "Imperatriz"
+  },
+  {
+    "city": "San Carlos De Bariloche"
+  },
+  {
+    "city": "Comodoro Rivadavia"
+  },
+  {
+    "city": "Rosario"
+  },
+  {
+    "city": "Ladag"
+  },
+  {
+    "city": "Asahikawa"
+  },
+  {
+    "city": "Salalah"
+  },
+  {
+    "city": "Yazd"
+  },
+  {
+    "city": "Manzanillo"
+  },
+  {
+    "city": "Zacatecas"
+  },
+  {
+    "city": "Tampico"
+  },
+  {
+    "city": "Queretaro"
+  },
+  {
+    "city": "Puebla"
+  },
+  {
+    "city": "Diyabakir"
+  },
+  {
+    "city": "Val D'or"
+  },
+  {
+    "city": "Poitiers"
+  },
+  {
+    "city": "Rijeka"
+  },
+  {
+    "city": "Comox"
+  },
+  {
+    "city": "Victoria Falls"
+  },
+  {
+    "city": "Toamasina"
+  },
+  {
+    "city": "Mattala"
+  },
+  {
+    "city": "Kulyab"
+  },
+  {
+    "city": "Placencia"
+  },
+  {
+    "city": "Kirkenes"
+  },
+  {
+    "city": "Groningen"
+  },
+  {
+    "city": "Nyuang U"
+  },
+  {
+    "city": "Barrow"
+  },
+  {
+    "city": "Fort Yukon"
+  },
+  {
+    "city": "Bukhara"
+  },
+  {
+    "city": "Juliaca"
+  },
+  {
+    "city": "Punta Arenas"
+  },
+  {
+    "city": "Calama"
+  },
+  {
+    "city": "Karpathos"
+  },
+  {
+    "city": "Keffallinia"
+  },
+  {
+    "city": "Thompson"
+  },
+  {
+    "city": "Natashquan"
+  },
+  {
+    "city": "Yichun"
+  },
+  {
+    "city": "Lensk"
+  },
+  {
+    "city": "Tangshan"
+  },
+  {
+    "city": "Lublin"
+  },
+  {
+    "city": "Jixi"
+  },
+  {
+    "city": "Handan"
+  },
+  {
+    "city": "Alanya"
+  },
+  {
+    "city": "Xingyi"
+  },
+  {
+    "city": "Barreiras"
+  },
+  {
+    "city": "Lulea"
+  },
+  {
+    "city": "Stebbins"
+  },
+  {
+    "city": "Gallivare"
+  },
+  {
+    "city": "Show Low"
+  },
+  {
+    "city": "Alamosa"
+  },
+  {
+    "city": "Santa Rosa"
+  },
+  {
+    "city": "Vieques Island"
+  },
+  {
+    "city": "Gorgan"
+  },
+  {
+    "city": "Navoi"
+  },
+  {
+    "city": "Dibrugarh"
+  },
+  {
+    "city": "Nanchong"
+  },
+  {
+    "city": "Quzhou"
+  },
+  {
+    "city": "Jiujiang"
+  },
+  {
+    "city": "Luxi"
+  },
+  {
+    "city": "Qingyang"
+  },
+  {
+    "city": "Port Macquarie"
+  },
+  {
+    "city": "Mildura"
+  },
+  {
+    "city": "Vitória Da Conquista"
+  },
+  {
+    "city": "Kerry"
+  },
+  {
+    "city": "Wewak"
+  },
+  {
+    "city": "Mcgrath"
+  },
+  {
+    "city": "Lar"
+  },
+  {
+    "city": "Dasht-e-naz"
+  },
+  {
+    "city": "Samana"
+  },
+  {
+    "city": "Asyut"
+  },
+  {
+    "city": "Ondjiva"
+  },
+  {
+    "city": "Waskaganish"
+  },
+  {
+    "city": "Chesterfield Inlet"
+  },
+  {
+    "city": "Caye Caulker"
+  },
+  {
+    "city": "Hoskins"
+  },
+  {
+    "city": "Newquai"
+  },
+  {
+    "city": "Marsa Alam"
+  },
+  {
+    "city": "Kalymnos"
+  },
+  {
+    "city": "Muan"
+  },
+  {
+    "city": "Dongying"
+  },
+  {
+    "city": "Sandakan"
+  },
+  {
+    "city": "Page"
+  },
+  {
+    "city": "Bismarck"
+  },
+  {
+    "city": "Mulu"
+  },
+  {
+    "city": "Kalamazoo"
+  },
+  {
+    "city": "Batumi"
+  },
+  {
+    "city": "Elmira"
+  },
+  {
+    "city": "Mcallen"
+  },
+  {
+    "city": "Cheyenne"
+  },
+  {
+    "city": "Santa Fe"
+  },
+  {
+    "city": "Killeen"
+  },
+  {
+    "city": "Monroe"
+  },
+  {
+    "city": "Newburgh"
+  },
+  {
+    "city": "Bakersfield"
+  },
+  {
+    "city": "Nantucket"
+  },
+  {
+    "city": "Lafayette"
+  },
+  {
+    "city": "Hotan"
+  },
+  {
+    "city": "Erfurt"
+  },
+  {
+    "city": "Jambi"
+  },
+  {
+    "city": "Pontianak"
+  },
+  {
+    "city": "Marudi"
+  },
+  {
+    "city": "Cambridge Bay"
+  },
+  {
+    "city": "Udon Thani"
+  },
+  {
+    "city": "Hat Yai"
+  },
+  {
+    "city": "Leh"
+  },
+  {
+    "city": "Jodhpur"
+  },
+  {
+    "city": "Aizwal"
+  },
+  {
+    "city": "Campbell River"
+  },
+  {
+    "city": "Perm"
+  },
+  {
+    "city": "Petropavlovsk"
+  },
+  {
+    "city": "Magadan"
+  },
+  {
+    "city": "The Valley"
+  },
+  {
+    "city": "Baker Lake"
+  },
+  {
+    "city": "Tarapoto"
+  },
+  {
+    "city": "Pucallpa"
+  },
+  {
+    "city": "Sucre"
+  },
+  {
+    "city": "Quibdo"
+  },
+  {
+    "city": "Pereira"
+  },
+  {
+    "city": "Leticia"
+  },
+  {
+    "city": "Baie Comeau"
+  },
+  {
+    "city": "Neuquen"
+  },
+  {
+    "city": "Salta"
+  },
+  {
+    "city": "Bacolod"
+  },
+  {
+    "city": "Zamboanga"
+  },
+  {
+    "city": "Taegu"
+  },
+  {
+    "city": "Hassi Messaoud"
+  },
+  {
+    "city": "Tlemcen"
+  },
+  {
+    "city": "Memanbetsu"
+  },
+  {
+    "city": "Chah Bahar"
+  },
+  {
+    "city": "Bakhtaran"
+  },
+  {
+    "city": "Abadan"
+  },
+  {
+    "city": "Bejaja"
+  },
+  {
+    "city": "Gizan"
+  },
+  {
+    "city": "Herat"
+  },
+  {
+    "city": "Bora Bora"
+  },
+  {
+    "city": "Poza Rico"
+  },
+  {
+    "city": "Oaxaca"
+  },
+  {
+    "city": "Gibraltar"
+  },
+  {
+    "city": "Elazig"
+  },
+  {
+    "city": "Fort Saint John"
+  },
+  {
+    "city": "Horta"
+  },
+  {
+    "city": "Norman Wells"
+  },
+  {
+    "city": "Reggio Calabria"
+  },
+  {
+    "city": "Leros"
+  },
+  {
+    "city": "Kavala"
+  },
+  {
+    "city": "Chios"
+  },
+  {
+    "city": "Mwanza"
+  },
+  {
+    "city": "Wajir"
+  },
+  {
+    "city": "Sao Vicente Island"
+  },
+  {
+    "city": "Shaktoolik"
+  },
+  {
+    "city": "Zweibruecken"
+  },
+  {
+    "city": "Aksu"
+  },
+  {
+    "city": "Yan'an"
+  },
+  {
+    "city": "Bandar Lampung-Sumatra Island"
+  },
+  {
+    "city": "Turbat"
+  },
+  {
+    "city": "Bahawalpur"
+  },
+  {
+    "city": "Whale Cove"
+  },
+  {
+    "city": "Gurney"
+  },
+  {
+    "city": "Coral Harbour"
+  },
+  {
+    "city": "Deadhorse"
+  },
+  {
+    "city": "Concepcion"
+  },
+  {
+    "city": "Rio Gallegos"
+  },
+  {
+    "city": "Trelew"
+  },
+  {
+    "city": "Ouargla"
+  },
+  {
+    "city": "Adrar"
+  },
+  {
+    "city": "Sukkur"
+  },
+  {
+    "city": "Rangiroa"
+  },
+  {
+    "city": "Faleolo"
+  },
+  {
+    "city": "Santiago De Cuba"
+  },
+  {
+    "city": "Kosice"
+  },
+  {
+    "city": "Timmins"
+  },
+  {
+    "city": "Sudbury"
+  },
+  {
+    "city": "Brive"
+  },
+  {
+    "city": "Antsiranana"
+  },
+  {
+    "city": "Sanliurfa"
+  },
+  {
+    "city": "Baishan"
+  },
+  {
+    "city": "Bayannur"
+  },
+  {
+    "city": "Belmopan"
+  },
+  {
+    "city": "George"
+  },
+  {
+    "city": "East London"
+  },
+  {
+    "city": "Schefferville"
+  },
+  {
+    "city": "Tengchong"
+  },
+  {
+    "city": "Kamloops"
+  },
+  {
+    "city": "Laage"
+  },
+  {
+    "city": "Angmagssalik"
+  },
+  {
+    "city": "Khalije Fars"
+  },
+  {
+    "city": "Sundsvall"
+  },
+  {
+    "city": "Koyuk"
+  },
+  {
+    "city": "Hollis"
+  },
+  {
+    "city": "Craig"
+  },
+  {
+    "city": "Halmstad"
+  },
+  {
+    "city": "Narssarssuaq"
+  },
+  {
+    "city": "Tongren"
+  },
+  {
+    "city": "Mardin"
+  },
+  {
+    "city": "St Mary's"
+  },
+  {
+    "city": "Dandong"
+  },
+  {
+    "city": "Jinzhou"
+  },
+  {
+    "city": "Nyingchi"
+  },
+  {
+    "city": "Meixian"
+  },
+  {
+    "city": "Bronnoysund"
+  },
+  {
+    "city": "Gove"
+  },
+  {
+    "city": "Cloncurry"
+  },
+  {
+    "city": "Khanabad"
+  },
+  {
+    "city": "Sovetskiy"
+  },
+  {
+    "city": "Yakutia"
+  },
+  {
+    "city": "Juazeiro Do Norte"
+  },
+  {
+    "city": "General Santos City"
+  },
+  {
+    "city": "Kushiro"
+  },
+  {
+    "city": "Sayun Intl"
+  },
+  {
+    "city": "Norsup"
+  },
+  {
+    "city": "Huntington"
+  },
+  {
+    "city": "Dodge City"
+  },
+  {
+    "city": "Port Sudan"
+  },
+  {
+    "city": "Malindi"
+  },
+  {
+    "city": "Heringsdorf"
+  },
+  {
+    "city": "The Pas"
+  },
+  {
+    "city": "Igloolik"
+  },
+  {
+    "city": "Momote"
+  },
+  {
+    "city": "Girua"
+  },
+  {
+    "city": "Stornoway"
+  },
+  {
+    "city": "Sumburgh"
+  },
+  {
+    "city": "Humberside"
+  },
+  {
+    "city": "Londonderry"
+  },
+  {
+    "city": "Vaasa"
+  },
+  {
+    "city": "Noyabrsk"
+  },
+  {
+    "city": "Saratov"
+  },
+  {
+    "city": "Liberal"
+  },
+  {
+    "city": "Mehamn"
+  },
+  {
+    "city": "State College Pennsylvania"
+  },
+  {
+    "city": "Tomsk"
+  },
+  {
+    "city": "Ballina Byron Bay"
+  },
+  {
+    "city": "Kulusuk"
+  },
+  {
+    "city": "Tanna"
+  },
+  {
+    "city": "Phu Quoc"
+  },
+  {
+    "city": "Dalat"
+  },
+  {
+    "city": "Saginaw"
+  },
+  {
+    "city": "Kalispell"
+  },
+  {
+    "city": "Wassau"
+  },
+  {
+    "city": "Toledo"
+  },
+  {
+    "city": "Rockford"
+  },
+  {
+    "city": "Traverse City"
+  },
+  {
+    "city": "Ilulissat"
+  },
+  {
+    "city": "Daytona Beach"
+  },
+  {
+    "city": "Cold Bay"
+  },
+  {
+    "city": "Corpus Christi"
+  },
+  {
+    "city": "New Bern"
+  },
+  {
+    "city": "Durango"
+  },
+  {
+    "city": "Coppermine"
+  },
+  {
+    "city": "Niagara Falls"
+  },
+  {
+    "city": "Minot"
+  },
+  {
+    "city": "Grand Forks"
+  },
+  {
+    "city": "Fort Smith"
+  },
+  {
+    "city": "Xichang"
+  },
+  {
+    "city": "Pyongyang"
+  },
+  {
+    "city": "Kalgoorlie"
+  },
+  {
+    "city": "Rockhampton"
+  },
+  {
+    "city": "Maroochydore"
+  },
+  {
+    "city": "Kuantan"
+  },
+  {
+    "city": "Alor Setar"
+  },
+  {
+    "city": "Banda Aceh"
+  },
+  {
+    "city": "Bengkulu"
+  },
+  {
+    "city": "Thimphu"
+  },
+  {
+    "city": "Pakse"
+  },
+  {
+    "city": "Dehra Dun"
+  },
+  {
+    "city": "Sylhet Osmani"
+  },
+  {
+    "city": "Baroda"
+  },
+  {
+    "city": "Aurangabad"
+  },
+  {
+    "city": "Blagoveschensk"
+  },
+  {
+    "city": "Barquisimeto"
+  },
+  {
+    "city": "Bucaramanga"
+  },
+  {
+    "city": "Tefe"
+  },
+  {
+    "city": "Rio Branco"
+  },
+  {
+    "city": "Petrolina"
+  },
+  {
+    "city": "Passo Fundo"
+  },
+  {
+    "city": "Joinville"
+  },
+  {
+    "city": "Chapeco"
+  },
+  {
+    "city": "Ushuaia"
+  },
+  {
+    "city": "Tacloban"
+  },
+  {
+    "city": "Miyako"
+  },
+  {
+    "city": "Aomori"
+  },
+  {
+    "city": "Ibaraki"
+  },
+  {
+    "city": "Makung"
+  },
+  {
+    "city": "Kinmen"
+  },
+  {
+    "city": "Bushehr"
+  },
+  {
+    "city": "Hail"
+  },
+  {
+    "city": "Kandahar"
+  },
+  {
+    "city": "Palmerston North"
+  },
+  {
+    "city": "Dunedin"
+  },
+  {
+    "city": "Tongatapu"
+  },
+  {
+    "city": "Governor's Harbor"
+  },
+  {
+    "city": "Los Mochis"
+  },
+  {
+    "city": "Reykjavik"
+  },
+  {
+    "city": "Ciudad Obregon"
+  },
+  {
+    "city": "Whitehorse"
+  },
+  {
+    "city": "Terrace"
+  },
+  {
+    "city": "Van"
+  },
+  {
+    "city": "Erzurum"
+  },
+  {
+    "city": "Williams Lake"
+  },
+  {
+    "city": "Elat"
+  },
+  {
+    "city": "Karlovy Vary"
+  },
+  {
+    "city": "Perugia"
+  },
+  {
+    "city": "Marina Di Campo"
+  },
+  {
+    "city": "Cuneo"
+  },
+  {
+    "city": "Rouyn"
+  },
+  {
+    "city": "Sitia"
+  },
+  {
+    "city": "Limnos"
+  },
+  {
+    "city": "Nea Anghialos"
+  },
+  {
+    "city": "Tours"
+  },
+  {
+    "city": "Perpignan"
+  },
+  {
+    "city": "St-Etienne"
+  },
+  {
+    "city": "Metz"
+  },
+  {
+    "city": "Tarbes"
+  },
+  {
+    "city": "Pau"
+  },
+  {
+    "city": "Melilla"
+  },
+  {
+    "city": "Blantyre"
+  },
+  {
+    "city": "Goroka"
+  },
+  {
+    "city": "Quinhagak"
+  },
+  {
+    "city": "Wales"
+  },
+  {
+    "city": "Elim"
+  },
+  {
+    "city": "Tanana"
+  },
+  {
+    "city": "Gjoa Haven"
+  },
+  {
+    "city": "Ruby"
+  },
+  {
+    "city": "Sandnessjoen"
+  },
+  {
+    "city": "Mosjoen"
+  },
+  {
+    "city": "Floro"
+  },
+  {
+    "city": "Ganja"
+  },
+  {
+    "city": "Flin Flon"
+  },
+  {
+    "city": "Tobruk"
+  },
+  {
+    "city": "Mo i Rana"
+  },
+  {
+    "city": "Big Trout Lake"
+  },
+  {
+    "city": "Kiunga"
+  },
+  {
+    "city": "Gizo"
+  },
+  {
+    "city": "Hodeidah"
+  },
+  {
+    "city": "Helena"
+  },
+  {
+    "city": "Bettles"
+  },
+  {
+    "city": "Tachilek"
+  },
+  {
+    "city": "Kingstown"
+  },
+  {
+    "city": "Scarborough"
+  },
+  {
+    "city": "Arica"
+  },
+  {
+    "city": "Raiatea Island"
+  },
+  {
+    "city": "Quepos"
+  },
+  {
+    "city": "Sibiu"
+  },
+  {
+    "city": "Vilankulu"
+  },
+  {
+    "city": "Maroantsetra"
+  },
+  {
+    "city": "Daocheng"
+  },
+  {
+    "city": "Nosy-be"
+  },
+  {
+    "city": "Jiagedaqi District"
+  },
+  {
+    "city": "Kasane"
+  },
+  {
+    "city": "Beloyarsky"
+  },
+  {
+    "city": "Bloemfontein"
+  },
+  {
+    "city": "Parauapebas"
+  },
+  {
+    "city": "Araguaina"
+  },
+  {
+    "city": "Vilhelmina"
+  },
+  {
+    "city": "Postville"
+  },
+  {
+    "city": "St. Michael"
+  },
+  {
+    "city": "Lycksele"
+  },
+  {
+    "city": "White Mountain"
+  },
+  {
+    "city": "Golovin"
+  },
+  {
+    "city": "Brevig Mission"
+  },
+  {
+    "city": "Noorvik"
+  },
+  {
+    "city": "Kramfors"
+  },
+  {
+    "city": "Kiana"
+  },
+  {
+    "city": "Buckland"
+  },
+  {
+    "city": "Ambler"
+  },
+  {
+    "city": "Thorne Bay"
+  },
+  {
+    "city": "Toowoomba"
+  },
+  {
+    "city": "Huslia"
+  },
+  {
+    "city": "Russian Mission"
+  },
+  {
+    "city": "Hilton Head"
+  },
+  {
+    "city": "Hamilton"
+  },
+  {
+    "city": "Branson"
+  },
+  {
+    "city": "Choibalsan"
+  },
+  {
+    "city": "St-Augustin"
+  },
+  {
+    "city": "Deering"
+  },
+  {
+    "city": "Puvirnituq"
+  },
+  {
+    "city": "Savoonga"
+  },
+  {
+    "city": "Point Hope"
+  },
+  {
+    "city": "Gambell"
+  },
+  {
+    "city": "Panzhihua"
+  },
+  {
+    "city": "Yining"
+  },
+  {
+    "city": "Batsfjord"
+  },
+  {
+    "city": "Enshi"
+  },
+  {
+    "city": "Groote Eylandt"
+  },
+  {
+    "city": "Gladstone"
+  },
+  {
+    "city": "Vagar"
+  },
+  {
+    "city": "Broken Hill"
+  },
+  {
+    "city": "Haiphong"
+  },
+  {
+    "city": "Bugulma"
+  },
+  {
+    "city": "Nukus"
+  },
+  {
+    "city": "Izhevsk"
+  },
+  {
+    "city": "Nyagan"
+  },
+  {
+    "city": "Kingman"
+  },
+  {
+    "city": "Spanish Town"
+  },
+  {
+    "city": "San Cristóbal"
+  },
+  {
+    "city": "Santa Maria"
+  },
+  {
+    "city": "Macaé"
+  },
+  {
+    "city": "Fukushima"
+  },
+  {
+    "city": "Londolovit"
+  },
+  {
+    "city": "Kalskag"
+  },
+  {
+    "city": "Hiva-oa"
+  },
+  {
+    "city": "Puerto Jimenez"
+  },
+  {
+    "city": "Nicoya"
+  },
+  {
+    "city": "Cockburn Town"
+  },
+  {
+    "city": "San Luis Obispo"
+  },
+  {
+    "city": "Grand Island"
+  },
+  {
+    "city": "Nanyuki"
+  },
+  {
+    "city": "Galcaio"
+  },
+  {
+    "city": "Bosaso"
+  },
+  {
+    "city": "El Aaiún"
+  },
+  {
+    "city": "Mpumalanga"
+  },
+  {
+    "city": "Fredericton"
+  },
+  {
+    "city": "Sogndal"
+  },
+  {
+    "city": "Kumasi"
+  },
+  {
+    "city": "Batna"
+  },
+  {
+    "city": "Muskrat Dam"
+  },
+  {
+    "city": "Chevery"
+  },
+  {
+    "city": "Hopedale"
+  },
+  {
+    "city": "Makkovik"
+  },
+  {
+    "city": "Nain"
+  },
+  {
+    "city": "Apartadó"
+  },
+  {
+    "city": "Chisasibi"
+  },
+  {
+    "city": "Bearskin Lake"
+  },
+  {
+    "city": "Nanortalik"
+  },
+  {
+    "city": "Tabubil"
+  },
+  {
+    "city": "Kavieng"
+  },
+  {
+    "city": "Daru"
+  },
+  {
+    "city": "Buka Island"
+  },
+  {
+    "city": "Munda"
+  },
+  {
+    "city": "Oulu"
+  },
+  {
+    "city": "Mariehamn"
+  },
+  {
+    "city": "Naryan-Mar"
+  },
+  {
+    "city": "Ukhta"
+  },
+  {
+    "city": "Kzyl-Orda"
+  },
+  {
+    "city": "Berlevag"
+  },
+  {
+    "city": "Orsta-Volda"
+  },
+  {
+    "city": "Copiapo"
+  },
+  {
+    "city": "Ciudad del Este"
+  },
+  {
+    "city": "Erie"
+  },
+  {
+    "city": "Vineyard Haven MA"
+  },
+  {
+    "city": "Ozamis"
+  },
+  {
+    "city": "Legazpi"
+  },
+  {
+    "city": "Dipolog"
+  },
+  {
+    "city": "Butuan"
+  },
+  {
+    "city": "Astypalaia"
+  },
+  {
+    "city": "Binghamton"
+  },
+  {
+    "city": "Idaho Falls"
+  },
+  {
+    "city": "Hue"
+  },
+  {
+    "city": "El Calafate"
+  },
+  {
+    "city": "Manhattan"
+  },
+  {
+    "city": "Champaign"
+  },
+  {
+    "city": "Uluru"
+  },
+  {
+    "city": "Caticlan"
+  },
+  {
+    "city": "Surat Thani"
+  },
+  {
+    "city": "Clyde River"
+  },
+  {
+    "city": "Ithaca"
+  },
+  {
+    "city": "Lewiston"
+  },
+  {
+    "city": "Labuhan Bajo"
+  },
+  {
+    "city": "Ende"
+  },
+  {
+    "city": "Tanjung Pandan"
+  },
+  {
+    "city": "Kendari"
+  },
+  {
+    "city": "Youngstown"
+  },
+  {
+    "city": "Watertown"
+  },
+  {
+    "city": "Laredo"
+  },
+  {
+    "city": "Salisbury"
+  },
+  {
+    "city": "Luebeck"
+  },
+  {
+    "city": "Duluth"
+  },
+  {
+    "city": "Hilo"
+  },
+  {
+    "city": "Coff's Harbour"
+  },
+  {
+    "city": "Albury"
+  },
+  {
+    "city": "Charlieville"
+  },
+  {
+    "city": "Dili"
+  },
+  {
+    "city": "Labuan"
+  },
+  {
+    "city": "Gorontalo"
+  },
+  {
+    "city": "Timika"
+  },
+  {
+    "city": "Biak"
+  },
+  {
+    "city": "Myitkyina"
+  },
+  {
+    "city": "Stavropol"
+  },
+  {
+    "city": "Makhachkala"
+  },
+  {
+    "city": "Abakan"
+  },
+  {
+    "city": "Bratsk"
+  },
+  {
+    "city": "Aguadilla"
+  },
+  {
+    "city": "St. Martin"
+  },
+  {
+    "city": "Maturin"
+  },
+  {
+    "city": "Paraguana"
+  },
+  {
+    "city": "Bagotville"
+  },
+  {
+    "city": "Yacuiba"
+  },
+  {
+    "city": "Santa Marta"
+  },
+  {
+    "city": "Cucuta"
+  },
+  {
+    "city": "Puerto Asis"
+  },
+  {
+    "city": "Balmaceda"
+  },
+  {
+    "city": "Uberaba"
+  },
+  {
+    "city": "Bahia Blanca"
+  },
+  {
+    "city": "Iguazu Falls"
+  },
+  {
+    "city": "Dumaguete"
+  },
+  {
+    "city": "Ghardaia"
+  },
+  {
+    "city": "Kwangju"
+  },
+  {
+    "city": "Biskra"
+  },
+  {
+    "city": "Hanamaki"
+  },
+  {
+    "city": "Fukue"
+  },
+  {
+    "city": "Hualien"
+  },
+  {
+    "city": "Kiritimati"
+  },
+  {
+    "city": "Majuro"
+  },
+  {
+    "city": "Tamanrasset"
+  },
+  {
+    "city": "Kerman"
+  },
+  {
+    "city": "Sault Sainte Marie"
+  },
+  {
+    "city": "Mazar-i-sharif"
+  },
+  {
+    "city": "Nelson"
+  },
+  {
+    "city": "Huahine Island"
+  },
+  {
+    "city": "Nuku Hiva"
+  },
+  {
+    "city": "Spence Bay"
+  },
+  {
+    "city": "Mexicali"
+  },
+  {
+    "city": "Charlottetown"
+  },
+  {
+    "city": "Smithers"
+  },
+  {
+    "city": "Pangnirtung"
+  },
+  {
+    "city": "Malatya"
+  },
+  {
+    "city": "Sivas"
+  },
+  {
+    "city": "Cranbrook"
+  },
+  {
+    "city": "Pico"
+  },
+  {
+    "city": "Flores"
+  },
+  {
+    "city": "Ostrava"
+  },
+  {
+    "city": "Parma"
+  },
+  {
+    "city": "Hall Beach"
+  },
+  {
+    "city": "Repulse Bay"
+  },
+  {
+    "city": "Kasos"
+  },
+  {
+    "city": "Kithira"
+  },
+  {
+    "city": "Nimes"
+  },
+  {
+    "city": "Caen"
+  },
+  {
+    "city": "Rodez"
+  },
+  {
+    "city": "Quesnel"
+  },
+  {
+    "city": "Grande Prairie"
+  },
+  {
+    "city": "Osijek"
+  },
+  {
+    "city": "Lamu"
+  },
+  {
+    "city": "Aswan"
+  },
+  {
+    "city": "Nouadhibou"
+  },
+  {
+    "city": "Bulawayo"
+  },
+  {
+    "city": "Sao Tome"
+  },
+  {
+    "city": "Masai Mara"
+  },
+  {
+    "city": "Kotlik"
+  },
+  {
+    "city": "Kwigillingok"
+  },
+  {
+    "city": "Emmonak"
+  },
+  {
+    "city": "Bonaventure"
+  },
+  {
+    "city": "Samburu South"
+  },
+  {
+    "city": "Sege"
+  },
+  {
+    "city": "Anaktuvuk Pass"
+  },
+  {
+    "city": "Dryden"
+  },
+  {
+    "city": "Andoya"
+  },
+  {
+    "city": "Longreach"
+  },
+  {
+    "city": "Haines"
+  },
+  {
+    "city": "Skagway"
+  },
+  {
+    "city": "Craig Cove"
+  },
+  {
+    "city": "Pikangikum"
+  },
+  {
+    "city": "Inukjuak"
+  },
+  {
+    "city": "Stokmarknes"
+  },
+  {
+    "city": "Ikaria"
+  },
+  {
+    "city": "Lanai"
+  },
+  {
+    "city": "Molokai"
+  },
+  {
+    "city": "Fak Fak"
+  },
+  {
+    "city": "Dzhambul"
+  },
+  {
+    "city": "Pelotas"
+  },
+  {
+    "city": "Altamira"
+  },
+  {
+    "city": "Campos"
+  },
+  {
+    "city": "Moorea"
+  },
+  {
+    "city": "Golfito"
+  },
+  {
+    "city": "Konya"
+  },
+  {
+    "city": "Tirgu Mures"
+  },
+  {
+    "city": "Valladolid"
+  },
+  {
+    "city": "Eldoret"
+  },
+  {
+    "city": "Quelimane"
+  },
+  {
+    "city": "Inhambane"
+  },
+  {
+    "city": "Lubango"
+  },
+  {
+    "city": "Soyo"
+  },
+  {
+    "city": "Menongue"
+  },
+  {
+    "city": "Huambo"
+  },
+  {
+    "city": "Toliara"
+  },
+  {
+    "city": "Sambava"
+  },
+  {
+    "city": "Mahajanga"
+  },
+  {
+    "city": "Antalaha"
+  },
+  {
+    "city": "Sigiriya"
+  },
+  {
+    "city": "Sainte Marie"
+  },
+  {
+    "city": "St.-pierre"
+  },
+  {
+    "city": "Moosonee"
+  },
+  {
+    "city": "Brusselton"
+  },
+  {
+    "city": "Bangui"
+  },
+  {
+    "city": "Yongzhou"
+  },
+  {
+    "city": "Bauru"
+  },
+  {
+    "city": "Toksook Bay"
+  },
+  {
+    "city": "Baise"
+  },
+  {
+    "city": "Mackenzie British Columbia"
+  },
+  {
+    "city": "Ukunda"
+  },
+  {
+    "city": "Waterloo"
+  },
+  {
+    "city": "Provo"
+  },
+  {
+    "city": "Zhijiang"
+  },
+  {
+    "city": "Liping"
+  },
+  {
+    "city": "Pond Inlet"
+  },
+  {
+    "city": "Jijiga"
+  },
+  {
+    "city": "Joacaba"
+  },
+  {
+    "city": "Dourados"
+  },
+  {
+    "city": "Sinop"
+  },
+  {
+    "city": "Cabo Frio"
+  },
+  {
+    "city": "Vasteras"
+  },
+  {
+    "city": "Bella Bella"
+  },
+  {
+    "city": "Skelleftea"
+  },
+  {
+    "city": "Havre-Saint-Pierre"
+  },
+  {
+    "city": "St. George"
+  },
+  {
+    "city": "Kiruna"
+  },
+  {
+    "city": "Grayling"
+  },
+  {
+    "city": "Tuluksak"
+  },
+  {
+    "city": "Akiak"
+  },
+  {
+    "city": "Pilot Station"
+  },
+  {
+    "city": "Kongiganak"
+  },
+  {
+    "city": "Klawock"
+  },
+  {
+    "city": "Kipnuk"
+  },
+  {
+    "city": "Hay River"
+  },
+  {
+    "city": "Teller"
+  },
+  {
+    "city": "Kobuk"
+  },
+  {
+    "city": "Metakatla"
+  },
+  {
+    "city": "Hoonah"
+  },
+  {
+    "city": "Shungnak"
+  },
+  {
+    "city": "Nulato"
+  },
+  {
+    "city": "Kwethluk"
+  },
+  {
+    "city": "Eek"
+  },
+  {
+    "city": "Shageluk"
+  },
+  {
+    "city": "Kalkmar"
+  },
+  {
+    "city": "Alliance"
+  },
+  {
+    "city": "Chadron"
+  },
+  {
+    "city": "Corozal"
+  },
+  {
+    "city": "Chefornak"
+  },
+  {
+    "city": "Puntarenas"
+  },
+  {
+    "city": "Mohe County"
+  },
+  {
+    "city": "Ronneby"
+  },
+  {
+    "city": "Marquette"
+  },
+  {
+    "city": "Holman Island"
+  },
+  {
+    "city": "Mus"
+  },
+  {
+    "city": "Walvis Bay"
+  },
+  {
+    "city": "Punta del Este"
+  },
+  {
+    "city": "Chaoyang"
+  },
+  {
+    "city": "Wuzhou"
+  },
+  {
+    "city": "La Fortuna/San Carlos"
+  },
+  {
+    "city": "Shishmaref"
+  },
+  {
+    "city": "Kivalina"
+  },
+  {
+    "city": "Kaltag"
+  },
+  {
+    "city": "Anvik"
+  },
+  {
+    "city": "Stord"
+  },
+  {
+    "city": "Svalbard"
+  },
+  {
+    "city": "Iles De La Madeleine"
+  },
+  {
+    "city": "Heihe"
+  },
+  {
+    "city": "Bangda"
+  },
+  {
+    "city": "Zhaotong"
+  },
+  {
+    "city": "Simao"
+  },
+  {
+    "city": "Burnie"
+  },
+  {
+    "city": "Roma"
+  },
+  {
+    "city": "Paraburdoo"
+  },
+  {
+    "city": "Mornington Island"
+  },
+  {
+    "city": "Moranbah"
+  },
+  {
+    "city": "Maningrida"
+  },
+  {
+    "city": "Merimbula"
+  },
+  {
+    "city": "Lord Howe Island"
+  },
+  {
+    "city": "Geraldton"
+  },
+  {
+    "city": "Doomadgee"
+  },
+  {
+    "city": "Lawas"
+  },
+  {
+    "city": "Langgur-Kei Islands"
+  },
+  {
+    "city": "Tanjung Redep-Borneo Island"
+  },
+  {
+    "city": "Waikabubak-Sumba Island"
+  },
+  {
+    "city": "La Grande Riviere"
+  },
+  {
+    "city": "Pleiku"
+  },
+  {
+    "city": "Phucat"
+  },
+  {
+    "city": "Can Tho"
+  },
+  {
+    "city": "Gan Island"
+  },
+  {
+    "city": "Andizhan"
+  },
+  {
+    "city": "Kirov"
+  },
+  {
+    "city": "Kostanay"
+  },
+  {
+    "city": "El Vigía"
+  },
+  {
+    "city": "Puerto Inírida"
+  },
+  {
+    "city": "Esmeraldas"
+  },
+  {
+    "city": "Roxas City"
+  },
+  {
+    "city": "Tuguegarao"
+  },
+  {
+    "city": "Sangley Point"
+  },
+  {
+    "city": "Sacheon"
+  },
+  {
+    "city": "Holy Cross"
+  },
+  {
+    "city": "Gustavus"
+  },
+  {
+    "city": "Uromiyeh"
+  },
+  {
+    "city": "Ardabil"
+  },
+  {
+    "city": "Ipota"
+  },
+  {
+    "city": "Gaua Island"
+  },
+  {
+    "city": "Lonorore"
+  },
+  {
+    "city": "Loh/Linua"
+  },
+  {
+    "city": "Sola"
+  },
+  {
+    "city": "Ablow"
+  },
+  {
+    "city": "Ua Huka"
+  },
+  {
+    "city": "Ua Pou"
+  },
+  {
+    "city": "Savusavu"
+  },
+  {
+    "city": "Matei"
+  },
+  {
+    "city": "Arthur's Town"
+  },
+  {
+    "city": "La Isabela"
+  },
+  {
+    "city": "Kahramanmaras"
+  },
+  {
+    "city": "Kars"
+  },
+  {
+    "city": "Banja Luka"
+  },
+  {
+    "city": "Worland"
+  },
+  {
+    "city": "Valdosta"
+  },
+  {
+    "city": "Rock Springs"
+  },
+  {
+    "city": "Latrobe"
+  },
+  {
+    "city": "Brunswick"
+  },
+  {
+    "city": "Al Bayda'"
+  },
+  {
+    "city": "Essadouira"
+  },
+  {
+    "city": "Dakhla"
+  },
+  {
+    "city": "Ängelholm"
+  },
+  {
+    "city": "Östersund"
+  },
+  {
+    "city": "Bydgoszcz"
+  },
+  {
+    "city": "Vardø"
+  },
+  {
+    "city": "Svolvær"
+  },
+  {
+    "city": "Rørvik"
+  },
+  {
+    "city": "Namsos"
+  },
+  {
+    "city": "Leknes"
+  },
+  {
+    "city": "Papa Westray"
+  },
+  {
+    "city": "North Ronaldsay"
+  },
+  {
+    "city": "Sandy Lake"
+  },
+  {
+    "city": "Sanikiluaq"
+  },
+  {
+    "city": "Umiujaq"
+  },
+  {
+    "city": "Chibougamau"
+  },
+  {
+    "city": "Aupaluk"
+  },
+  {
+    "city": "Fort Hope"
+  },
+  {
+    "city": "Lourdes-De-Blanc-Sablon"
+  },
+  {
+    "city": "Kangirsuk"
+  },
+  {
+    "city": "Sisimiut"
+  },
+  {
+    "city": "Qaanaaq"
+  },
+  {
+    "city": "Vanimo"
+  },
+  {
+    "city": "Tari"
+  },
+  {
+    "city": "Moro"
+  },
+  {
+    "city": "Kirakira"
+  },
+  {
+    "city": "Teesside"
+  },
+  {
+    "city": "Pori"
+  },
+  {
+    "city": "Lappeenranta"
+  },
+  {
+    "city": "Arcata CA"
+  },
+  {
+    "city": "Uraj"
+  },
+  {
+    "city": "Anapa"
+  },
+  {
+    "city": "Kruunupyy"
+  },
+  {
+    "city": "ST MARY\\\\'S"
+  },
+  {
+    "city": "Gillette"
+  },
+  {
+    "city": "Columbus Mississippi"
+  },
+  {
+    "city": "Busuanga"
+  },
+  {
+    "city": "NAPIER"
+  },
+  {
+    "city": "Nauru"
+  },
+  {
+    "city": "La Crosse"
+  },
+  {
+    "city": "Aasiaat"
+  },
+  {
+    "city": "Tagbilaran"
+  },
+  {
+    "city": "Palanga"
+  },
+  {
+    "city": "Ubon Ratchathani"
+  },
+  {
+    "city": "Bima"
+  },
+  {
+    "city": "Palangkaraya"
+  },
+  {
+    "city": "Tanjung Pinang"
+  },
+  {
+    "city": "Malang"
+  },
+  {
+    "city": "Casper"
+  },
+  {
+    "city": "Unalaska"
+  },
+  {
+    "city": "Sitka"
+  },
+  {
+    "city": "Tyler"
+  },
+  {
+    "city": "Dothan"
+  },
+  {
+    "city": "Brownsville"
+  },
+  {
+    "city": "College Station"
+  },
+  {
+    "city": "Kenai"
+  },
+  {
+    "city": "Cordova"
+  },
+  {
+    "city": "Yuma"
+  },
+  {
+    "city": "Lincoln"
+  },
+  {
+    "city": "Lake Charles"
+  },
+  {
+    "city": "Huron"
+  },
+  {
+    "city": "Dillingham"
+  },
+  {
+    "city": "St. Paul Island"
+  },
+  {
+    "city": "Wagga Wagga"
+  },
+  {
+    "city": "Dubbo"
+  },
+  {
+    "city": "Learmonth"
+  },
+  {
+    "city": "Prosserpine"
+  },
+  {
+    "city": "Merauke"
+  },
+  {
+    "city": "Nabire"
+  },
+  {
+    "city": "Sittwe"
+  },
+  {
+    "city": "Phitsanulok"
+  },
+  {
+    "city": "Rajahmundry"
+  },
+  {
+    "city": "Vijayawada"
+  },
+  {
+    "city": "Savannakhet"
+  },
+  {
+    "city": "Jessore"
+  },
+  {
+    "city": "Cox's Bazar"
+  },
+  {
+    "city": "Surat"
+  },
+  {
+    "city": "Rajkot"
+  },
+  {
+    "city": "Jabalpur"
+  },
+  {
+    "city": "Tozeur"
+  },
+  {
+    "city": "Kemorovo"
+  },
+  {
+    "city": "Barnaul"
+  },
+  {
+    "city": "Semiplatinsk"
+  },
+  {
+    "city": "Pavlodar"
+  },
+  {
+    "city": "Uralsk"
+  },
+  {
+    "city": "Puerto Maldonado"
+  },
+  {
+    "city": "Pasto"
+  },
+  {
+    "city": "Puerto Carreno"
+  },
+  {
+    "city": "Mitu"
+  },
+  {
+    "city": "Monteria"
+  },
+  {
+    "city": "Ibague"
+  },
+  {
+    "city": "Cuenca"
+  },
+  {
+    "city": "Coca"
+  },
+  {
+    "city": "Temuco"
+  },
+  {
+    "city": "Enugu"
+  },
+  {
+    "city": "Sao Jose Dos Campos"
+  },
+  {
+    "city": "Macapa"
+  },
+  {
+    "city": "Montes Claros"
+  },
+  {
+    "city": "Ipatinga"
+  },
+  {
+    "city": "Fernando Do Noronha"
+  },
+  {
+    "city": "Caxias Do Sul"
+  },
+  {
+    "city": "Cascavel"
+  },
+  {
+    "city": "Mar Del Plata"
+  },
+  {
+    "city": "Tamale"
+  },
+  {
+    "city": "Esquel"
+  },
+  {
+    "city": "St. Anthony"
+  },
+  {
+    "city": "Cotabato"
+  },
+  {
+    "city": "Pohang"
+  },
+  {
+    "city": "Ulsan"
+  },
+  {
+    "city": "Yeosu"
+  },
+  {
+    "city": "Yamagata"
+  },
+  {
+    "city": "Kitakyushu"
+  },
+  {
+    "city": "Tsushima"
+  },
+  {
+    "city": "Yamaguchi"
+  },
+  {
+    "city": "Obihiro"
+  },
+  {
+    "city": "Pohnpei"
+  },
+  {
+    "city": "Kwajalein"
+  },
+  {
+    "city": "Rahim Yar Khan"
+  },
+  {
+    "city": "Gwadar"
+  },
+  {
+    "city": "Nejran"
+  },
+  {
+    "city": "Bisha"
+  },
+  {
+    "city": "El-baha"
+  },
+  {
+    "city": "Al-ahsa"
+  },
+  {
+    "city": "Woodbourne"
+  },
+  {
+    "city": "Tauranga"
+  },
+  {
+    "city": "Rotorua"
+  },
+  {
+    "city": "New Plymouth"
+  },
+  {
+    "city": "Lifou"
+  },
+  {
+    "city": "Maupiti"
+  },
+  {
+    "city": "Manihi"
+  },
+  {
+    "city": "Wallis"
+  },
+  {
+    "city": "Tarawa"
+  },
+  {
+    "city": "Camaguey"
+  },
+  {
+    "city": "Cap Haitien"
+  },
+  {
+    "city": "Palmar Sur"
+  },
+  {
+    "city": "Puerto Escondido"
+  },
+  {
+    "city": "Colima"
+  },
+  {
+    "city": "Tepic"
+  },
+  {
+    "city": "Fort Nelson"
+  },
+  {
+    "city": "Ciudad Del Carmen"
+  },
+  {
+    "city": "Huatulco"
+  },
+  {
+    "city": "Batman"
+  },
+  {
+    "city": "Erzincan"
+  },
+  {
+    "city": "Porto Santo"
+  },
+  {
+    "city": "Santa Maria (island)"
+  },
+  {
+    "city": "Rimini"
+  },
+  {
+    "city": "Pantelleria"
+  },
+  {
+    "city": "Lampedusa"
+  },
+  {
+    "city": "Skiros"
+  },
+  {
+    "city": "Patras"
+  },
+  {
+    "city": "Alexandroupolis"
+  },
+  {
+    "city": "Hyeres"
+  },
+  {
+    "city": "Dinard"
+  },
+  {
+    "city": "Cape Dorset"
+  },
+  {
+    "city": "St. John"
+  },
+  {
+    "city": "Dole"
+  },
+  {
+    "city": "Castres"
+  },
+  {
+    "city": "Gander"
+  },
+  {
+    "city": "San Sebastian"
+  },
+  {
+    "city": "Kufra"
+  },
+  {
+    "city": "Kenora"
+  },
+  {
+    "city": "Windsor"
+  },
+  {
+    "city": "Red Deer Industrial"
+  },
+  {
+    "city": "Makale"
+  },
+  {
+    "city": "Lalibella"
+  },
+  {
+    "city": "Dire Dawa"
+  },
+  {
+    "city": "Hierro"
+  },
+  {
+    "city": "Kananga"
+  },
+  {
+    "city": "Goma"
+  },
+  {
+    "city": "Cabinda"
+  },
+  {
+    "city": "Tununak"
+  },
+  {
+    "city": "Nightmute"
+  },
+  {
+    "city": "Ravensthorpe"
+  },
+  {
+    "city": "Allakaket"
+  },
+  {
+    "city": "Noatak"
+  },
+  {
+    "city": "Erechim"
+  },
+  {
+    "city": "Esperance"
+  },
+  {
+    "city": "Saga"
+  },
+  {
+    "city": "Dera Ghazi Khan"
+  },
+  {
+    "city": "Ambryn Island"
+  },
+  {
+    "city": "Ahe"
+  },
+  {
+    "city": "New Bedford"
+  },
+  {
+    "city": "Clarksburg"
+  },
+  {
+    "city": "Sorkjosen"
+  },
+  {
+    "city": "Sanday"
+  },
+  {
+    "city": "Round Lake"
+  },
+  {
+    "city": "Fort Severn"
+  },
+  {
+    "city": "Fort Frances"
+  },
+  {
+    "city": "Wunnumin Lake"
+  },
+  {
+    "city": "Angling Lake"
+  },
+  {
+    "city": "Narsaq"
+  },
+  {
+    "city": "Forde"
+  },
+  {
+    "city": "Honningsvag"
+  },
+  {
+    "city": "Kemi"
+  },
+  {
+    "city": "Jyvaskyla"
+  },
+  {
+    "city": "Barnstable"
+  },
+  {
+    "city": "Maumere"
+  },
+  {
+    "city": "El Dorado"
+  },
+  {
+    "city": "Norfolk Island"
+  },
+  {
+    "city": "Kaimana"
+  },
+  {
+    "city": "Cobija"
+  },
+  {
+    "city": "In Salah"
+  },
+  {
+    "city": "Takaroa"
+  },
+  {
+    "city": "Tikehau"
+  },
+  {
+    "city": "Tubuai"
+  },
+  {
+    "city": "Rurutu"
+  },
+  {
+    "city": "Aitutaki"
+  },
+  {
+    "city": "Cayman Barac"
+  },
+  {
+    "city": "Cayo Largo del Sur"
+  },
+  {
+    "city": "Bocas Del Toro"
+  },
+  {
+    "city": "Kisumu"
+  },
+  {
+    "city": "Kisangani"
+  },
+  {
+    "city": "Mbandaka"
+  },
+  {
+    "city": "High Level"
+  },
+  {
+    "city": "Lichinga"
+  },
+  {
+    "city": "Saurimo"
+  },
+  {
+    "city": "Malanje"
+  },
+  {
+    "city": "Kuito"
+  },
+  {
+    "city": "Tolagnaro"
+  },
+  {
+    "city": "Xiahe city"
+  },
+  {
+    "city": "Bingol"
+  },
+  {
+    "city": "Morondava"
+  },
+  {
+    "city": "Igdir"
+  },
+  {
+    "city": "Garoua"
+  },
+  {
+    "city": "Sir Bani Yas Island"
+  },
+  {
+    "city": "Bodaibo"
+  },
+  {
+    "city": "Bata"
+  },
+  {
+    "city": "Kooddoo"
+  },
+  {
+    "city": "Lankaran"
+  },
+  {
+    "city": "Francistown"
+  },
+  {
+    "city": "Upington"
+  },
+  {
+    "city": "Al-Ula"
+  },
+  {
+    "city": "Cacador"
+  },
+  {
+    "city": "Arctic Bay"
+  },
+  {
+    "city": "Kegaska"
+  },
+  {
+    "city": "Newtok"
+  },
+  {
+    "city": "Juiz de Fora"
+  },
+  {
+    "city": "Friday Harbor"
+  },
+  {
+    "city": "Westsound"
+  },
+  {
+    "city": "Roche Harbor"
+  },
+  {
+    "city": "Kimberley"
+  },
+  {
+    "city": "NAYPYITAW"
+  },
+  {
+    "city": "Hoedspruit"
+  },
+  {
+    "city": "Zhongwei"
+  },
+  {
+    "city": "Shiquanhe"
+  },
+  {
+    "city": "Yushu"
+  },
+  {
+    "city": "Sevastopol"
+  },
+  {
+    "city": "Zonguldak"
+  },
+  {
+    "city": "Latacunga"
+  },
+  {
+    "city": "Morristown"
+  },
+  {
+    "city": "Rundu"
+  },
+  {
+    "city": "Ulawa"
+  },
+  {
+    "city": "Itaituba"
+  },
+  {
+    "city": "Wenshan"
+  },
+  {
+    "city": "Lincang"
+  },
+  {
+    "city": "Baoshan"
+  },
+  {
+    "city": "Okha"
+  },
+  {
+    "city": "Foshan"
+  },
+  {
+    "city": "Raivavae"
+  },
+  {
+    "city": "Norrkoeping"
+  },
+  {
+    "city": "Linkoeping"
+  },
+  {
+    "city": "Borlange"
+  },
+  {
+    "city": "La Chorrera"
+  },
+  {
+    "city": "Saravena"
+  },
+  {
+    "city": "Rerrenabaque"
+  },
+  {
+    "city": "Orebro"
+  },
+  {
+    "city": "Arvidsjaur"
+  },
+  {
+    "city": "Rainbow Lake"
+  },
+  {
+    "city": "Kangiqsujuaq"
+  },
+  {
+    "city": "Sleetmute"
+  },
+  {
+    "city": "Wainwright"
+  },
+  {
+    "city": "Nunapitchuk"
+  },
+  {
+    "city": "Koyukuk"
+  },
+  {
+    "city": "Nunam Iqua"
+  },
+  {
+    "city": "Alakanuk"
+  },
+  {
+    "city": "Selawik"
+  },
+  {
+    "city": "Ouzinkie"
+  },
+  {
+    "city": "Sveg"
+  },
+  {
+    "city": "Beaver"
+  },
+  {
+    "city": "Venetie"
+  },
+  {
+    "city": "Hughes"
+  },
+  {
+    "city": "Chalkyitsik"
+  },
+  {
+    "city": "Tuntutuliak"
+  },
+  {
+    "city": "Marshall"
+  },
+  {
+    "city": "Kasigluk"
+  },
+  {
+    "city": "Nuiqsut"
+  },
+  {
+    "city": "Mammoth Lakes"
+  },
+  {
+    "city": "Dickinson"
+  },
+  {
+    "city": "Jamestown"
+  },
+  {
+    "city": "Ulyanovsk"
+  },
+  {
+    "city": "Aspen"
+  },
+  {
+    "city": "Mora"
+  },
+  {
+    "city": "Osubi"
+  },
+  {
+    "city": "Lewisburg"
+  },
+  {
+    "city": "Brainerd"
+  },
+  {
+    "city": "Altay"
+  },
+  {
+    "city": "Rimatara"
+  },
+  {
+    "city": "Ust-Kut"
+  },
+  {
+    "city": "Bellona"
+  },
+  {
+    "city": "Joenkoeping"
+  },
+  {
+    "city": "Iron Mountain"
+  },
+  {
+    "city": "Yakutat"
+  },
+  {
+    "city": "Taree"
+  },
+  {
+    "city": "Mpacha"
+  },
+  {
+    "city": "Long Akah"
+  },
+  {
+    "city": "Geneina"
+  },
+  {
+    "city": "Kangra"
+  },
+  {
+    "city": "Tacheng"
+  },
+  {
+    "city": "Sand Point"
+  },
+  {
+    "city": "Gorakhpur"
+  },
+  {
+    "city": "Araracuara"
+  },
+  {
+    "city": "Hagerstown"
+  },
+  {
+    "city": "Pajala"
+  },
+  {
+    "city": "Imo"
+  },
+  {
+    "city": "Tasiujaq"
+  },
+  {
+    "city": "Hooper Bay"
+  },
+  {
+    "city": "Atqasuk"
+  },
+  {
+    "city": "Lakselv"
+  },
+  {
+    "city": "Hasvik"
+  },
+  {
+    "city": "Worcester"
+  },
+  {
+    "city": "Karamay"
+  },
+  {
+    "city": "Kuqa"
+  },
+  {
+    "city": "Muren"
+  },
+  {
+    "city": "Bayankhongor"
+  },
+  {
+    "city": "Golmud"
+  },
+  {
+    "city": "Winton"
+  },
+  {
+    "city": "Windorah"
+  },
+  {
+    "city": "St George"
+  },
+  {
+    "city": "Quilpie"
+  },
+  {
+    "city": "Pormpuraaw"
+  },
+  {
+    "city": "Port Lincoln"
+  },
+  {
+    "city": "Parkes"
+  },
+  {
+    "city": "Newman"
+  },
+  {
+    "city": "Normanton"
+  },
+  {
+    "city": "Narrandera"
+  },
+  {
+    "city": "Mount Gambier"
+  },
+  {
+    "city": "Moruya"
+  },
+  {
+    "city": "Gaspe"
+  },
+  {
+    "city": "Lockhart River"
+  },
+  {
+    "city": "Kowanyama"
+  },
+  {
+    "city": "King Island"
+  },
+  {
+    "city": "Julia Creek"
+  },
+  {
+    "city": "Griffith"
+  },
+  {
+    "city": "Cunnamulla"
+  },
+  {
+    "city": "Bathurst"
+  },
+  {
+    "city": "Boulia"
+  },
+  {
+    "city": "Burketown"
+  },
+  {
+    "city": "Bedourie"
+  },
+  {
+    "city": "Birdsville"
+  },
+  {
+    "city": "Aurukun"
+  },
+  {
+    "city": "Laut Island"
+  },
+  {
+    "city": "Kudat"
+  },
+  {
+    "city": "Bario"
+  },
+  {
+    "city": "Mukah"
+  },
+  {
+    "city": "Long Seridan"
+  },
+  {
+    "city": "Long Datih"
+  },
+  {
+    "city": "Dawei"
+  },
+  {
+    "city": "Conson"
+  },
+  {
+    "city": "Laamu Atoll"
+  },
+  {
+    "city": "Haa Dhaalu Atoll"
+  },
+  {
+    "city": "Dimapur"
+  },
+  {
+    "city": "Koggala"
+  },
+  {
+    "city": "Hubli"
+  },
+  {
+    "city": "Saransk"
+  },
+  {
+    "city": "Cheboksary"
+  },
+  {
+    "city": "Vorkuta"
+  },
+  {
+    "city": "Termez"
+  },
+  {
+    "city": "Kurgan"
+  },
+  {
+    "city": "Novokuznetsk"
+  },
+  {
+    "city": "Ivano-Frankivsk"
+  },
+  {
+    "city": "Zaporozhye"
+  },
+  {
+    "city": "Esbjerg"
+  },
+  {
+    "city": "Anadyr"
+  },
+  {
+    "city": "Tiksi"
+  },
+  {
+    "city": "Cherskiy"
+  },
+  {
+    "city": "Chokurdah"
+  },
+  {
+    "city": "Zhezkazgan"
+  },
+  {
+    "city": "Petropavlosk"
+  },
+  {
+    "city": "Kokshetau"
+  },
+  {
+    "city": "Ji-Paraná"
+  },
+  {
+    "city": "Huánuco"
+  },
+  {
+    "city": "Cajamarca"
+  },
+  {
+    "city": "Yopal"
+  },
+  {
+    "city": "Waterford"
+  },
+  {
+    "city": "La Toma (Catamayo)"
+  },
+  {
+    "city": "Marília"
+  },
+  {
+    "city": "Catarman"
+  },
+  {
+    "city": "Basco"
+  },
+  {
+    "city": "Naga"
+  },
+  {
+    "city": "Kunsan"
+  },
+  {
+    "city": "Fort Simpson"
+  },
+  {
+    "city": "Wrangell"
+  },
+  {
+    "city": "Chevak"
+  },
+  {
+    "city": "Mountain Village"
+  },
+  {
+    "city": "Dera Ismael Khan"
+  },
+  {
+    "city": "Chitral"
+  },
+  {
+    "city": "Al Ain"
+  },
+  {
+    "city": "Noshahr"
+  },
+  {
+    "city": "Al-Jawf"
+  },
+  {
+    "city": "Dawadmi"
+  },
+  {
+    "city": "Tiga"
+  },
+  {
+    "city": "Futuna Island"
+  },
+  {
+    "city": "Dillon's Bay"
+  },
+  {
+    "city": "Aniwa"
+  },
+  {
+    "city": "Malekula Island"
+  },
+  {
+    "city": "Lamen Bay"
+  },
+  {
+    "city": "Lamap"
+  },
+  {
+    "city": "Paama Island"
+  },
+  {
+    "city": "Longana"
+  },
+  {
+    "city": "Lambasa"
+  },
+  {
+    "city": "Vunisea"
+  },
+  {
+    "city": "Colonel Hill"
+  },
+  {
+    "city": "Jalapa"
+  },
+  {
+    "city": "Puerto Lempira"
+  },
+  {
+    "city": "Adiyaman"
+  },
+  {
+    "city": "Agri"
+  },
+  {
+    "city": "Corvo"
+  },
+  {
+    "city": "Syros Island"
+  },
+  {
+    "city": "Tupelo"
+  },
+  {
+    "city": "Rhinelander"
+  },
+  {
+    "city": "Owensboro"
+  },
+  {
+    "city": "North Bend"
+  },
+  {
+    "city": "Lynchburg"
+  },
+  {
+    "city": "Klamath Falls"
+  },
+  {
+    "city": "Lebanon"
+  },
+  {
+    "city": "Hot Springs"
+  },
+  {
+    "city": "Du Bois"
+  },
+  {
+    "city": "Crescent City"
+  },
+  {
+    "city": "Bradford"
+  },
+  {
+    "city": "Alpena"
+  },
+  {
+    "city": "Diu"
+  },
+  {
+    "city": "Nyala"
+  },
+  {
+    "city": "Sirt"
+  },
+  {
+    "city": "Tshikapa"
+  },
+  {
+    "city": "Catumbela"
+  },
+  {
+    "city": "Solwesi"
+  },
+  {
+    "city": "Hemavan"
+  },
+  {
+    "city": "Torsby"
+  },
+  {
+    "city": "Karlstad"
+  },
+  {
+    "city": "Hagfors"
+  },
+  {
+    "city": "Sandane"
+  },
+  {
+    "city": "Røst"
+  },
+  {
+    "city": "Dongloe"
+  },
+  {
+    "city": "Westray"
+  },
+  {
+    "city": "Stronsay"
+  },
+  {
+    "city": "Churchill Falls"
+  },
+  {
+    "city": "Sachigo Lake"
+  },
+  {
+    "city": "Kashechewan"
+  },
+  {
+    "city": "Eastmain River"
+  },
+  {
+    "city": "Salluit"
+  },
+  {
+    "city": "Webequie"
+  },
+  {
+    "city": "Wemindji"
+  },
+  {
+    "city": "Lansdowne House"
+  },
+  {
+    "city": "Akulivik"
+  },
+  {
+    "city": "Ivujivik"
+  },
+  {
+    "city": "Nemiscau"
+  },
+  {
+    "city": "Quaqtaq"
+  },
+  {
+    "city": "Gillam"
+  },
+  {
+    "city": "Fort Albany"
+  },
+  {
+    "city": "Attawapiskat"
+  },
+  {
+    "city": "Kasabonika"
+  },
+  {
+    "city": "Cat Lake"
+  },
+  {
+    "city": "La Tabatière"
+  },
+  {
+    "city": "Tête-à-la-Baleine"
+  },
+  {
+    "city": "Poplar Hill"
+  },
+  {
+    "city": "Kingfisher Lake"
+  },
+  {
+    "city": "North Spirit Lake"
+  },
+  {
+    "city": "Rigolet"
+  },
+  {
+    "city": "Maniitsoq"
+  },
+  {
+    "city": "Paamiut"
+  },
+  {
+    "city": "Neerlerit Inaat"
+  },
+  {
+    "city": "Alluitsup Paa"
+  },
+  {
+    "city": "Misima Island"
+  },
+  {
+    "city": "Ramata"
+  },
+  {
+    "city": "Kagau Island"
+  },
+  {
+    "city": "Suavanao"
+  },
+  {
+    "city": "Rennell Island"
+  },
+  {
+    "city": "Benbecula"
+  },
+  {
+    "city": "Wick"
+  },
+  {
+    "city": "Hawarden"
+  },
+  {
+    "city": "Alderney"
+  },
+  {
+    "city": "Dawson Creek"
+  },
+  {
+    "city": "Savonlinna"
+  },
+  {
+    "city": "Rovaniemi"
+  },
+  {
+    "city": "Dubuque IA"
+  },
+  {
+    "city": "Austin TX"
+  },
+  {
+    "city": "Kittila"
+  },
+  {
+    "city": "Usinsk"
+  },
+  {
+    "city": "Joplin"
+  },
+  {
+    "city": "Cody"
+  },
+  {
+    "city": "Kajaani"
+  },
+  {
+    "city": "Little Cayman"
+  },
+  {
+    "city": "Morgantown"
+  },
+  {
+    "city": "Saint Cloud"
+  },
+  {
+    "city": "Flagstaff"
+  },
+  {
+    "city": "Lawton"
+  },
+  {
+    "city": "Fort Good Hope"
+  },
+  {
+    "city": "Tulita"
+  },
+  {
+    "city": "Deline"
+  },
+  {
+    "city": "Kaadedhdhoo"
+  },
+  {
+    "city": "Bundaberg"
+  },
+  {
+    "city": "Caldas Novas"
+  },
+  {
+    "city": "Laoag"
+  },
+  {
+    "city": "Kastelorizo"
+  },
+  {
+    "city": "Paros"
+  },
+  {
+    "city": "Cyclades Islands"
+  },
+  {
+    "city": "Milos"
+  },
+  {
+    "city": "Johnstown"
+  },
+  {
+    "city": "Tartu"
+  },
+  {
+    "city": "Tuy Hoa"
+  },
+  {
+    "city": "Chu Lai"
+  },
+  {
+    "city": "Dong Hoi"
+  },
+  {
+    "city": "Petersburg"
+  },
+  {
+    "city": "Nan"
+  },
+  {
+    "city": "Saint George"
+  },
+  {
+    "city": "Armidale"
+  },
+  {
+    "city": "Franklin"
+  },
+  {
+    "city": "Hervey Bay"
+  },
+  {
+    "city": "Decatur"
+  },
+  {
+    "city": "Jacksn Hole"
+  },
+  {
+    "city": "Redang"
+  },
+  {
+    "city": "New Haven"
+  },
+  {
+    "city": "Kassel"
+  },
+  {
+    "city": "Emerald"
+  },
+  {
+    "city": "Nevsehir"
+  },
+  {
+    "city": "Socotra"
+  },
+  {
+    "city": "Pullman"
+  },
+  {
+    "city": "Khon Kaen"
+  },
+  {
+    "city": "Nakhon Phanom"
+  },
+  {
+    "city": "Nakhon Si Thammarat"
+  },
+  {
+    "city": "Valdez"
+  },
+  {
+    "city": "Lahania-kapalua"
+  },
+  {
+    "city": "Texarkana"
+  },
+  {
+    "city": "Macon"
+  },
+  {
+    "city": "Sioux City"
+  },
+  {
+    "city": "Roswell"
+  },
+  {
+    "city": "Abilene"
+  },
+  {
+    "city": "San Angelo"
+  },
+  {
+    "city": "Waco"
+  },
+  {
+    "city": "Altoona"
+  },
+  {
+    "city": "Imperial"
+  },
+  {
+    "city": "Wichita Falls"
+  },
+  {
+    "city": "Homer"
+  },
+  {
+    "city": "Williston"
+  },
+  {
+    "city": "Beaumont"
+  },
+  {
+    "city": "Charlo"
+  },
+  {
+    "city": "Williamsport"
+  },
+  {
+    "city": "International Falls"
+  },
+  {
+    "city": "Presque Isle"
+  },
+  {
+    "city": "Garden City"
+  },
+  {
+    "city": "Longview"
+  },
+  {
+    "city": "Harrison"
+  },
+  {
+    "city": "Point Lay"
+  },
+  {
+    "city": "Barter Island"
+  },
+  {
+    "city": "Castlegar"
+  },
+  {
+    "city": "Christmas Island"
+  },
+  {
+    "city": "Weipa"
+  },
+  {
+    "city": "Ipoh"
+  },
+  {
+    "city": "Kerteh"
+  },
+  {
+    "city": "Nanaimo"
+  },
+  {
+    "city": "Ketapang"
+  },
+  {
+    "city": "Luwuk"
+  },
+  {
+    "city": "Thandwe"
+  },
+  {
+    "city": "Myeik"
+  },
+  {
+    "city": "Trang"
+  },
+  {
+    "city": "Pattaya"
+  },
+  {
+    "city": "Tirupeti"
+  },
+  {
+    "city": "Allahabad"
+  },
+  {
+    "city": "Agra"
+  },
+  {
+    "city": "Porbandar"
+  },
+  {
+    "city": "Bhaunagar"
+  },
+  {
+    "city": "Bhuj"
+  },
+  {
+    "city": "Antwerp"
+  },
+  {
+    "city": "Magnetiogorsk"
+  },
+  {
+    "city": "Gabes"
+  },
+  {
+    "city": "Ponce"
+  },
+  {
+    "city": "Valera"
+  },
+  {
+    "city": "Puerto Cabello"
+  },
+  {
+    "city": "Barinas"
+  },
+  {
+    "city": "Piura"
+  },
+  {
+    "city": "Tacna"
+  },
+  {
+    "city": "Ayacucho"
+  },
+  {
+    "city": "Potosi"
+  },
+  {
+    "city": "Valledupar"
+  },
+  {
+    "city": "Arauca"
+  },
+  {
+    "city": "Tame"
+  },
+  {
+    "city": "San Vincente De Caguan"
+  },
+  {
+    "city": "San Jose Del Guaviare"
+  },
+  {
+    "city": "Neiva"
+  },
+  {
+    "city": "Guapi"
+  },
+  {
+    "city": "Florencia"
+  },
+  {
+    "city": "Buenaventura"
+  },
+  {
+    "city": "Armenia"
+  },
+  {
+    "city": "Galapagos"
+  },
+  {
+    "city": "Valdivia"
+  },
+  {
+    "city": "Easter Island"
+  },
+  {
+    "city": "Calabar"
+  },
+  {
+    "city": "Benin"
+  },
+  {
+    "city": "Rio Grande"
+  },
+  {
+    "city": "Santo Angelo"
+  },
+  {
+    "city": "Campina Grande"
+  },
+  {
+    "city": "President Prudente"
+  },
+  {
+    "city": "Criciuma"
+  },
+  {
+    "city": "Aracatuba"
+  },
+  {
+    "city": "Takoradi"
+  },
+  {
+    "city": "Jujuy"
+  },
+  {
+    "city": "Bobo-dioulasso"
+  },
+  {
+    "city": "San Julian"
+  },
+  {
+    "city": "Tucuman"
+  },
+  {
+    "city": "San Rafael"
+  },
+  {
+    "city": "Zarzaitine"
+  },
+  {
+    "city": "Parana"
+  },
+  {
+    "city": "Pagadian"
+  },
+  {
+    "city": "El Golea"
+  },
+  {
+    "city": "Misawa"
+  },
+  {
+    "city": "Tokushima"
+  },
+  {
+    "city": "Amami"
+  },
+  {
+    "city": "Iki"
+  },
+  {
+    "city": "Wakkanai"
+  },
+  {
+    "city": "Nakashibetsu"
+  },
+  {
+    "city": "Matsumoto"
+  },
+  {
+    "city": "Yap"
+  },
+  {
+    "city": "Kosrae"
+  },
+  {
+    "city": "Chuuk"
+  },
+  {
+    "city": "Rota"
+  },
+  {
+    "city": "Tilrempt"
+  },
+  {
+    "city": "Zhob"
+  },
+  {
+    "city": "Moenjodaro"
+  },
+  {
+    "city": "Faisalabad"
+  },
+  {
+    "city": "Aqaba"
+  },
+  {
+    "city": "Ramsar"
+  },
+  {
+    "city": "Birjand"
+  },
+  {
+    "city": "Bandar Lengeh"
+  },
+  {
+    "city": "Bandar Mahshahr"
+  },
+  {
+    "city": "Sharurah"
+  },
+  {
+    "city": "Arar"
+  },
+  {
+    "city": "Hafr Al-batin"
+  },
+  {
+    "city": "Guriat"
+  },
+  {
+    "city": "Whangarei"
+  },
+  {
+    "city": "Paraparaumu"
+  },
+  {
+    "city": "Invercargill"
+  },
+  {
+    "city": "Gisborne"
+  },
+  {
+    "city": "Taupo"
+  },
+  {
+    "city": "Ouvea"
+  },
+  {
+    "city": "Port Hardy"
+  },
+  {
+    "city": "Koumac"
+  },
+  {
+    "city": "Mataiva"
+  },
+  {
+    "city": "Fakarava"
+  },
+  {
+    "city": "Mayaguana"
+  },
+  {
+    "city": "Stella Maris"
+  },
+  {
+    "city": "Dead Man's Cay"
+  },
+  {
+    "city": "Matthew Town"
+  },
+  {
+    "city": "Rock Sound"
+  },
+  {
+    "city": "Alice Town"
+  },
+  {
+    "city": "Treasure Cay"
+  },
+  {
+    "city": "Spring Point"
+  },
+  {
+    "city": "David"
+  },
+  {
+    "city": "Tapachula"
+  },
+  {
+    "city": "Uruapan"
+  },
+  {
+    "city": "Piedras Negras"
+  },
+  {
+    "city": "Minatitlan"
+  },
+  {
+    "city": "Matamoros"
+  },
+  {
+    "city": "Lazard Cardenas"
+  },
+  {
+    "city": "Saltillo"
+  },
+  {
+    "city": "Ciudad Victoria"
+  },
+  {
+    "city": "Campeche"
+  },
+  {
+    "city": "North Bay"
+  },
+  {
+    "city": "South Caicos"
+  },
+  {
+    "city": "Abbotsford"
+  },
+  {
+    "city": "Denizli"
+  },
+  {
+    "city": "Merzifon"
+  },
+  {
+    "city": "Altenrhein"
+  },
+  {
+    "city": "Lugano"
+  },
+  {
+    "city": "Satu Mare"
+  },
+  {
+    "city": "Oradea"
+  },
+  {
+    "city": "Craiova"
+  },
+  {
+    "city": "Baia Mare"
+  },
+  {
+    "city": "Sao Jorge Island"
+  },
+  {
+    "city": "Haifa"
+  },
+  {
+    "city": "Pardubice"
+  },
+  {
+    "city": "Bolzano"
+  },
+  {
+    "city": "Broughton Island"
+  },
+  {
+    "city": "Debrecen"
+  },
+  {
+    "city": "Skiathos"
+  },
+  {
+    "city": "Ioannina"
+  },
+  {
+    "city": "Lorient"
+  },
+  {
+    "city": "Deauville"
+  },
+  {
+    "city": "Sachs Harbour"
+  },
+  {
+    "city": "Chalons"
+  },
+  {
+    "city": "Avignon"
+  },
+  {
+    "city": "Resolute"
+  },
+  {
+    "city": "Perigueux"
+  },
+  {
+    "city": "Agen"
+  },
+  {
+    "city": "Badajoz"
+  },
+  {
+    "city": "Plovdiv"
+  },
+  {
+    "city": "El Fasher"
+  },
+  {
+    "city": "Gondar"
+  },
+  {
+    "city": "Axum"
+  },
+  {
+    "city": "Sao Nocolau Island"
+  },
+  {
+    "city": "Fort Chipewyan"
+  },
+  {
+    "city": "Prince Pupert"
+  },
+  {
+    "city": "Ouarzazate"
+  },
+  {
+    "city": "Port Menier"
+  },
+  {
+    "city": "Mbuji-mayi"
+  },
+  {
+    "city": "Kindu"
+  },
+  {
+    "city": "Bukavu/kavumu"
+  },
+  {
+    "city": "Bunia"
+  },
+  {
+    "city": "Thule"
+  },
+  {
+    "city": "Oriximina"
+  },
+  {
+    "city": "Ourilandia do Norte"
+  },
+  {
+    "city": "Patos de Minas"
+  },
+  {
+    "city": "Choiseul Bay"
+  },
+  {
+    "city": "Crooked Creek"
+  },
+  {
+    "city": "Coffman Cove"
+  },
+  {
+    "city": "Scammon Bay"
+  },
+  {
+    "city": "Port Lions"
+  },
+  {
+    "city": "Old Harbor"
+  },
+  {
+    "city": "Weyers Cave"
+  },
+  {
+    "city": "Bella Coola"
+  },
+  {
+    "city": "Flinders Island"
+  },
+  {
+    "city": "Coen"
+  },
+  {
+    "city": "Tufi"
+  },
+  {
+    "city": "Waala"
+  },
+  {
+    "city": "Atiu Island"
+  },
+  {
+    "city": "Beckley"
+  },
+  {
+    "city": "Amboseli National Park"
+  },
+  {
+    "city": "Eday"
+  },
+  {
+    "city": "Fera Island"
+  },
+  {
+    "city": "Ivalo"
+  },
+  {
+    "city": "Saba"
+  },
+  {
+    "city": "Blackall"
+  },
+  {
+    "city": "Al Ghaidah Intl"
+  },
+  {
+    "city": "Saidpur"
+  },
+  {
+    "city": "Gafsa"
+  },
+  {
+    "city": "San Luis"
+  },
+  {
+    "city": "Ghriss"
+  },
+  {
+    "city": "Tiaret"
+  },
+  {
+    "city": "Djanet"
+  },
+  {
+    "city": "Hao Island"
+  },
+  {
+    "city": "Kapuskasing"
+  },
+  {
+    "city": "Pamplona"
+  },
+  {
+    "city": "Lodwar"
+  },
+  {
+    "city": "Asosa"
+  },
+  {
+    "city": "Jimma"
+  },
+  {
+    "city": "Gambella"
+  },
+  {
+    "city": "Bahar Dar"
+  },
+  {
+    "city": "Arba Minch"
+  },
+  {
+    "city": "Ziguinchor"
+  },
+  {
+    "city": "Praslin"
+  },
+  {
+    "city": "Port Gentil"
+  },
+  {
+    "city": "Luena"
+  },
+  {
+    "city": "M'banza-congo"
+  },
+  {
+    "city": "Kastamonu"
+  },
+  {
+    "city": "Mananara"
+  },
+  {
+    "city": "Mamuju"
+  },
+  {
+    "city": "Thanh Hoa"
+  },
+  {
+    "city": "Mfuwe"
+  },
+  {
+    "city": "Kutahya"
+  },
+  {
+    "city": "N'gaoundere"
+  },
+  {
+    "city": "Maroua"
+  },
+  {
+    "city": "Dalma Island"
+  },
+  {
+    "city": "Rodriguez Island"
+  },
+  {
+    "city": "Veliky Ustyug"
+  },
+  {
+    "city": "Kangding"
+  },
+  {
+    "city": "Rio Hondo"
+  },
+  {
+    "city": "Manzini"
+  },
+  {
+    "city": "Yuzhno-Kurilsk"
+  },
+  {
+    "city": "Qabala"
+  },
+  {
+    "city": "Gorno-Altaysk"
+  },
+  {
+    "city": "Pomalaa"
+  },
+  {
+    "city": "Umtata"
+  },
+  {
+    "city": "Lloydminster"
+  },
+  {
+    "city": "Lephalale"
+  },
+  {
+    "city": "Richard's Bay"
+  },
+  {
+    "city": "Pietermaritzburg"
+  },
+  {
+    "city": "Polokwane"
+  },
+  {
+    "city": "Phalaborwa"
+  },
+  {
+    "city": "Keewaywin"
+  },
+  {
+    "city": "Margate"
+  },
+  {
+    "city": "Santa Isabel do Rio Negro"
+  },
+  {
+    "city": "Sao Paulo de Olivenca"
+  },
+  {
+    "city": "Eirunepe"
+  },
+  {
+    "city": "Sao Felix do Araguaia"
+  },
+  {
+    "city": "Bointo"
+  },
+  {
+    "city": "Redencao"
+  },
+  {
+    "city": "Trail"
+  },
+  {
+    "city": "Vinnitsa"
+  },
+  {
+    "city": "Ittoqqortoormiit"
+  },
+  {
+    "city": "Mulatupo"
+  },
+  {
+    "city": "Garachine"
+  },
+  {
+    "city": "Achutupo"
+  },
+  {
+    "city": "Goodnews Bay"
+  },
+  {
+    "city": "Puerto Obaldia"
+  },
+  {
+    "city": "El Porvenir"
+  },
+  {
+    "city": "Playon Chico"
+  },
+  {
+    "city": "Marktoberdorf"
+  },
+  {
+    "city": "Mysore"
+  },
+  {
+    "city": "Stephenville"
+  },
+  {
+    "city": "Los Alamos"
+  },
+  {
+    "city": "Dickwella"
+  },
+  {
+    "city": "Ulaangom"
+  },
+  {
+    "city": "Yasuj"
+  },
+  {
+    "city": "Sao Gabriel da Cachoeira"
+  },
+  {
+    "city": "Longyan"
+  },
+  {
+    "city": "Iturup Island"
+  },
+  {
+    "city": "Olgii"
+  },
+  {
+    "city": "Lleida"
+  },
+  {
+    "city": "Pakuba"
+  },
+  {
+    "city": "Guanambi"
+  },
+  {
+    "city": "Barcelos"
+  },
+  {
+    "city": "Coari"
+  },
+  {
+    "city": "Araxa"
+  },
+  {
+    "city": "Rio Verde"
+  },
+  {
+    "city": "Guarapuava"
+  },
+  {
+    "city": "Rondonopolis"
+  },
+  {
+    "city": "Minacu"
+  },
+  {
+    "city": "Parintins"
+  },
+  {
+    "city": "Gurupi"
+  },
+  {
+    "city": "Villa Garzon"
+  },
+  {
+    "city": "La Macarena"
+  },
+  {
+    "city": "Uyuni"
+  },
+  {
+    "city": "Christiansted"
+  },
+  {
+    "city": "Manley Hot Springs"
+  },
+  {
+    "city": "Kake"
+  },
+  {
+    "city": "Healy"
+  },
+  {
+    "city": "Stony River"
+  },
+  {
+    "city": "Red Devil"
+  },
+  {
+    "city": "Circle"
+  },
+  {
+    "city": "Ornskoldsvik"
+  },
+  {
+    "city": "Takotna"
+  },
+  {
+    "city": "Nikolai"
+  },
+  {
+    "city": "Nelson Lagoon"
+  },
+  {
+    "city": "False Pass"
+  },
+  {
+    "city": "Nikolski"
+  },
+  {
+    "city": "Atka"
+  },
+  {
+    "city": "Tin City"
+  },
+  {
+    "city": "Seal Bay"
+  },
+  {
+    "city": "Kitoi Bay"
+  },
+  {
+    "city": "Amook Bay"
+  },
+  {
+    "city": "Larsen Bay"
+  },
+  {
+    "city": "Akhiok"
+  },
+  {
+    "city": "South Naknek"
+  },
+  {
+    "city": "Pilot Point"
+  },
+  {
+    "city": "Perryville"
+  },
+  {
+    "city": "Chignik Lagoon"
+  },
+  {
+    "city": "Egegik"
+  },
+  {
+    "city": "Chignik Lake"
+  },
+  {
+    "city": "North Whale Pass"
+  },
+  {
+    "city": "Port Protection"
+  },
+  {
+    "city": "Point Baker"
+  },
+  {
+    "city": "Hydaburg"
+  },
+  {
+    "city": "Excursion Inlet"
+  },
+  {
+    "city": "Pelican"
+  },
+  {
+    "city": "Tenakee Springs"
+  },
+  {
+    "city": "Elfin Cove"
+  },
+  {
+    "city": "Angoon"
+  },
+  {
+    "city": "Merced"
+  },
+  {
+    "city": "Visalia"
+  },
+  {
+    "city": "Coldfoot"
+  },
+  {
+    "city": "Brich Creek"
+  },
+  {
+    "city": "Central"
+  },
+  {
+    "city": "Rampart"
+  },
+  {
+    "city": "Minto"
+  },
+  {
+    "city": "Levelock"
+  },
+  {
+    "city": "Chuathbaluk"
+  },
+  {
+    "city": "Eastsound"
+  },
+  {
+    "city": "Vernal"
+  },
+  {
+    "city": "Moab"
+  },
+  {
+    "city": "Wolf Point"
+  },
+  {
+    "city": "Glendive"
+  },
+  {
+    "city": "McCook"
+  },
+  {
+    "city": "Sidney"
+  },
+  {
+    "city": "Manistee"
+  },
+  {
+    "city": "Gunnison"
+  },
+  {
+    "city": "Gelendzik"
+  },
+  {
+    "city": "Kristianstad"
+  },
+  {
+    "city": "Thief River Falls"
+  },
+  {
+    "city": "St. Augustine Airport"
+  },
+  {
+    "city": "Yaroslavl"
+  },
+  {
+    "city": "Trollhattan"
+  },
+  {
+    "city": "Wenatchee"
+  },
+  {
+    "city": "Pendleton"
+  },
+  {
+    "city": "Riverton WY"
+  },
+  {
+    "city": "Montrose CO"
+  },
+  {
+    "city": "Marion"
+  },
+  {
+    "city": "Culebra Island"
+  },
+  {
+    "city": "Escanaba"
+  },
+  {
+    "city": "Orange"
+  },
+  {
+    "city": "Grafton"
+  },
+  {
+    "city": "Hamadan"
+  },
+  {
+    "city": "Çorlu"
+  },
+  {
+    "city": "Canakkale"
+  },
+  {
+    "city": "Eskissehir"
+  },
+  {
+    "city": "Walaha"
+  },
+  {
+    "city": "Tanjung Manis"
+  },
+  {
+    "city": "Togiak Village"
+  },
+  {
+    "city": "Port Heiden"
+  },
+  {
+    "city": "King Cove"
+  },
+  {
+    "city": "Igiugig"
+  },
+  {
+    "city": "Burgos"
+  },
+  {
+    "city": "Leon"
+  },
+  {
+    "city": "Lago Agrio"
+  },
+  {
+    "city": "Parsabad"
+  },
+  {
+    "city": "Ilam"
+  },
+  {
+    "city": "Governador Valadares"
+  },
+  {
+    "city": "Apatity"
+  },
+  {
+    "city": "Cauayan"
+  },
+  {
+    "city": "Arctic Village"
+  },
+  {
+    "city": "Mekoryuk"
+  },
+  {
+    "city": "Skien"
+  },
+  {
+    "city": "Roros"
+  },
+  {
+    "city": "Orland"
+  },
+  {
+    "city": "Tambow"
+  },
+  {
+    "city": "Provincetown"
+  },
+  {
+    "city": "Boulder City"
+  },
+  {
+    "city": "Grand Canyon West"
+  },
+  {
+    "city": "Fagernes"
+  },
+  {
+    "city": "Bardufoss"
+  },
+  {
+    "city": "Khovd"
+  },
+  {
+    "city": "Altai"
+  },
+  {
+    "city": "Whyalla"
+  },
+  {
+    "city": "Thargomindah"
+  },
+  {
+    "city": "Cocos Keeling Island"
+  },
+  {
+    "city": "Argyle"
+  },
+  {
+    "city": "Olympic Dam"
+  },
+  {
+    "city": "Moree"
+  },
+  {
+    "city": "McArthur River Mine"
+  },
+  {
+    "city": "Milingimbi"
+  },
+  {
+    "city": "Lismore"
+  },
+  {
+    "city": "Horn Island"
+  },
+  {
+    "city": "Elcho Island"
+  },
+  {
+    "city": "Devonport"
+  },
+  {
+    "city": "Ceduna"
+  },
+  {
+    "city": "Coober Pedy"
+  },
+  {
+    "city": "Barcaldine"
+  },
+  {
+    "city": "Ranai-Natuna Besar Island"
+  },
+  {
+    "city": "Bakalalan"
+  },
+  {
+    "city": "Kawthoung"
+  },
+  {
+    "city": "Dienbienphu"
+  },
+  {
+    "city": "Soenderborg"
+  },
+  {
+    "city": "Tak"
+  },
+  {
+    "city": "Nepalgunj"
+  },
+  {
+    "city": "Chandragarhi"
+  },
+  {
+    "city": "Ronne"
+  },
+  {
+    "city": "Bharatpur"
+  },
+  {
+    "city": "Barisal"
+  },
+  {
+    "city": "Shillong"
+  },
+  {
+    "city": "Penza"
+  },
+  {
+    "city": "Orsk"
+  },
+  {
+    "city": "Kursk"
+  },
+  {
+    "city": "Lopez"
+  },
+  {
+    "city": "Silver City"
+  },
+  {
+    "city": "Akutan"
+  },
+  {
+    "city": "Kearney"
+  },
+  {
+    "city": "Elista"
+  },
+  {
+    "city": "Beslan"
+  },
+  {
+    "city": "Grozny"
+  },
+  {
+    "city": "Igarka"
+  },
+  {
+    "city": "Karup"
+  },
+  {
+    "city": "Kyzyl"
+  },
+  {
+    "city": "Petrozavodsk"
+  },
+  {
+    "city": "Solovetsky Islands"
+  },
+  {
+    "city": "Uzhgorod"
+  },
+  {
+    "city": "Nakhchivan"
+  },
+  {
+    "city": "Riberalta"
+  },
+  {
+    "city": "Guayaramerín"
+  },
+  {
+    "city": "Nuquí"
+  },
+  {
+    "city": "La Pedrera"
+  },
+  {
+    "city": "Puerto Leguízamo"
+  },
+  {
+    "city": "Lençóis"
+  },
+  {
+    "city": "Masbate"
+  },
+  {
+    "city": "Calbayog City"
+  },
+  {
+    "city": "Virac"
+  },
+  {
+    "city": "Jolo"
+  },
+  {
+    "city": "Camiguin"
+  },
+  {
+    "city": "Sokcho / Gangneung"
+  },
+  {
+    "city": "Wonju"
+  },
+  {
+    "city": "Shonai"
+  },
+  {
+    "city": "Odate Noshiro"
+  },
+  {
+    "city": "Iwami"
+  },
+  {
+    "city": "Losuia"
+  },
+  {
+    "city": "Adak Island"
+  },
+  {
+    "city": "Boca de Sábalo"
+  },
+  {
+    "city": "Contadora Island"
+  },
+  {
+    "city": "Bahia Piña"
+  },
+  {
+    "city": "Skardu"
+  },
+  {
+    "city": "Dalbandin"
+  },
+  {
+    "city": "Sabzevar"
+  },
+  {
+    "city": "Bojnourd"
+  },
+  {
+    "city": "Bam"
+  },
+  {
+    "city": "Khorram Abad"
+  },
+  {
+    "city": "Île des Pins"
+  },
+  {
+    "city": "Anelghowhat"
+  },
+  {
+    "city": "Valesdir"
+  },
+  {
+    "city": "Tongoa Island"
+  },
+  {
+    "city": "Maewo Island"
+  },
+  {
+    "city": "Pentecost Island"
+  },
+  {
+    "city": "Sangafa"
+  },
+  {
+    "city": "Vanua Balavu"
+  },
+  {
+    "city": "Rotuma"
+  },
+  {
+    "city": "Lakeba Island"
+  },
+  {
+    "city": "Cicia"
+  },
+  {
+    "city": "Mitiaro Island"
+  },
+  {
+    "city": "Mauke Island"
+  },
+  {
+    "city": "Mangaia Island"
+  },
+  {
+    "city": "Long Banga"
+  },
+  {
+    "city": "Roxana"
+  },
+  {
+    "city": "Jaqué"
+  },
+  {
+    "city": "Salt Cay"
+  },
+  {
+    "city": "Ubari"
+  },
+  {
+    "city": "Balikesir Korfez"
+  },
+  {
+    "city": "Isparta"
+  },
+  {
+    "city": "Mount Pleasant"
+  },
+  {
+    "city": "Logroño-Agoncillo"
+  },
+  {
+    "city": "Yakima"
+  },
+  {
+    "city": "Quincy"
+  },
+  {
+    "city": "Salina"
+  },
+  {
+    "city": "Saranac Lake"
+  },
+  {
+    "city": "Sheridan"
+  },
+  {
+    "city": "Rutland"
+  },
+  {
+    "city": "Portsmouth"
+  },
+  {
+    "city": "Pellston"
+  },
+  {
+    "city": "Pocatello"
+  },
+  {
+    "city": "Hattiesburg/Laurel"
+  },
+  {
+    "city": "Muscle Shoals"
+  },
+  {
+    "city": "Muskegon"
+  },
+  {
+    "city": "Lancaster"
+  },
+  {
+    "city": "North Platte"
+  },
+  {
+    "city": "Laramie"
+  },
+  {
+    "city": "Kirksville"
+  },
+  {
+    "city": "Elko"
+  },
+  {
+    "city": "Eau Claire"
+  },
+  {
+    "city": "Hancock"
+  },
+  {
+    "city": "Port Angeles"
+  },
+  {
+    "city": "Sault Ste Marie"
+  },
+  {
+    "city": "Cape Girardeau"
+  },
+  {
+    "city": "Scottsbluff"
+  },
+  {
+    "city": "Walla Walla"
+  },
+  {
+    "city": "Arua"
+  },
+  {
+    "city": "Bukoba"
+  },
+  {
+    "city": "Lokichoggio"
+  },
+  {
+    "city": "Gode"
+  },
+  {
+    "city": "Sao Filipe"
+  },
+  {
+    "city": "La Gomera"
+  },
+  {
+    "city": "Oranjemund"
+  },
+  {
+    "city": "Ondangwa"
+  },
+  {
+    "city": "Luderitz"
+  },
+  {
+    "city": "Chimoio"
+  },
+  {
+    "city": "Mocamedes"
+  },
+  {
+    "city": "Chipata"
+  },
+  {
+    "city": "Shire Indasilase"
+  },
+  {
+    "city": "Barra"
+  },
+  {
+    "city": "Land's End"
+  },
+  {
+    "city": "Campbeltown"
+  },
+  {
+    "city": "Guemar"
+  },
+  {
+    "city": "Bordj Badji Mokhtar"
+  },
+  {
+    "city": "Béchar"
+  },
+  {
+    "city": "Masset"
+  },
+  {
+    "city": "Gamètì"
+  },
+  {
+    "city": "Powell River"
+  },
+  {
+    "city": "Peawanuck"
+  },
+  {
+    "city": "Kangiqsualujjuaq"
+  },
+  {
+    "city": "Lutselk'e"
+  },
+  {
+    "city": "Kimmirut"
+  },
+  {
+    "city": "Grise Fiord"
+  },
+  {
+    "city": "Tarapacá"
+  },
+  {
+    "city": "Ogoki Post"
+  },
+  {
+    "city": "Summer Beaver"
+  },
+  {
+    "city": "Whatì"
+  },
+  {
+    "city": "Anahim Lake"
+  },
+  {
+    "city": "Wapenamanda"
+  },
+  {
+    "city": "Mendi"
+  },
+  {
+    "city": "Kundiawa"
+  },
+  {
+    "city": "Tiree"
+  },
+  {
+    "city": "Marau"
+  },
+  {
+    "city": "Santa Cruz/Graciosa Bay/Luova"
+  },
+  {
+    "city": "Atoifi"
+  },
+  {
+    "city": "Dundee"
+  },
+  {
+    "city": "Islay"
+  },
+  {
+    "city": "Golouchestershire"
+  },
+  {
+    "city": "Kuopio"
+  },
+  {
+    "city": "Kogalym"
+  },
+  {
+    "city": "Kuusamo"
+  },
+  {
+    "city": "Narvik"
+  },
+  {
+    "city": "Hayden"
+  },
+  {
+    "city": "Cortez"
+  },
+  {
+    "city": "Meridian"
+  },
+  {
+    "city": "Chumphon"
+  },
+  {
+    "city": "Joensuu"
+  },
+  {
+    "city": "Bemidji"
+  },
+  {
+    "city": "Monaco"
+  },
+  {
+    "city": "Twin Falls"
+  },
+  {
+    "city": "Vail"
+  },
+  {
+    "city": "Paulatuk"
+  },
+  {
+    "city": "Grand Canyon"
+  },
+  {
+    "city": "Dhangarhi"
+  },
+  {
+    "city": "Tumling Tar"
+  },
+  {
+    "city": "Brac"
+  },
+  {
+    "city": "Pai"
+  },
+  {
+    "city": "Ca Mau"
+  },
+  {
+    "city": "Rach Gia"
+  },
+  {
+    "city": "Muang Xay"
+  },
+  {
+    "city": "Luang Namtha"
+  },
+  {
+    "city": "Trat"
+  },
+  {
+    "city": "Ranong"
+  },
+  {
+    "city": "Buri Ram"
+  },
+  {
+    "city": "Roi Et"
+  },
+  {
+    "city": "Kuressaare"
+  },
+  {
+    "city": "Santa Elena de Uairen"
+  },
+  {
+    "city": "PADUCAH"
+  },
+  {
+    "city": "PARKERSBURG"
+  },
+  {
+    "city": "Redding"
+  },
+  {
+    "city": "Sihanoukville"
+  },
+  {
+    "city": "Carlsbad"
+  },
+  {
+    "city": "Mae Hong Son"
+  },
+  {
+    "city": "Phon Savan"
+  },
+  {
+    "city": "Funafuti"
+  },
+  {
+    "city": "Kingscote"
+  },
+  {
+    "city": "Rockland"
+  },
+  {
+    "city": "Bar Harbor"
+  },
+  {
+    "city": "Butte"
+  },
+  {
+    "city": "Ataq"
+  },
+  {
+    "city": "Gyumri"
+  },
+  {
+    "city": "Sukhothai"
+  },
+  {
+    "city": "Waingapu"
+  },
+  {
+    "city": "Naha"
+  },
+  {
+    "city": "Topeka"
+  },
+  {
+    "city": "Cedar City"
+  },
+  {
+    "city": "Modesto"
+  },
+  {
+    "city": "Stockton"
+  },
+  {
+    "city": "Belleville"
+  },
+  {
+    "city": "Hobbs"
+  },
+  {
+    "city": "Augsburg"
+  },
+  {
+    "city": "Ogdensburg"
+  },
+  {
+    "city": "Chico"
+  },
+  {
+    "city": "Augusta"
+  },
+  {
+    "city": "Fort Leonardwood"
+  },
+  {
+    "city": "Hibbing"
+  },
+  {
+    "city": "Teterboro"
+  },
+  {
+    "city": "Havre"
+  },
+  {
+    "city": "Jonesboro"
+  },
+  {
+    "city": "Mannheim"
+  },
+  {
+    "city": "Massena"
+  },
+  {
+    "city": "Kamuela"
+  },
+  {
+    "city": "Pueblo"
+  },
+  {
+    "city": "Prescott"
+  },
+  {
+    "city": "Hana"
+  },
+  {
+    "city": "Port Moller"
+  },
+  {
+    "city": "Iliamna"
+  },
+  {
+    "city": "Tatalina"
+  },
+  {
+    "city": "Cape Lisburne"
+  },
+  {
+    "city": "Wajima"
+  },
+  {
+    "city": "Tamworth"
+  },
+  {
+    "city": "Avalon"
+  },
+  {
+    "city": "Amberley"
+  },
+  {
+    "city": "Lahad Datu"
+  },
+  {
+    "city": "Limbang"
+  },
+  {
+    "city": "Babo"
+  },
+  {
+    "city": "Poso"
+  },
+  {
+    "city": "Wamena"
+  },
+  {
+    "city": "Putao"
+  },
+  {
+    "city": "Kyaukpyu"
+  },
+  {
+    "city": "Kengtung"
+  },
+  {
+    "city": "Loei"
+  },
+  {
+    "city": "Sakon Nakhon"
+  },
+  {
+    "city": "Narathiwat"
+  },
+  {
+    "city": "Phrae"
+  },
+  {
+    "city": "Lampang"
+  },
+  {
+    "city": "Agatti Island"
+  },
+  {
+    "city": "Biratnagar"
+  },
+  {
+    "city": "Pokhara"
+  },
+  {
+    "city": "Bhairawa"
+  },
+  {
+    "city": "Ludhiaha"
+  },
+  {
+    "city": "Kanpur"
+  },
+  {
+    "city": "Ostend"
+  },
+  {
+    "city": "Brandon"
+  },
+  {
+    "city": "Gwalior"
+  },
+  {
+    "city": "Kulu"
+  },
+  {
+    "city": "Rajshahi"
+  },
+  {
+    "city": "Trinciomalee"
+  },
+  {
+    "city": "Khajuraho"
+  },
+  {
+    "city": "Jamnagar"
+  },
+  {
+    "city": "Belgaum"
+  },
+  {
+    "city": "Pevek"
+  },
+  {
+    "city": "Mayaguez"
+  },
+  {
+    "city": "San Tome"
+  },
+  {
+    "city": "Puerto Ayacucho"
+  },
+  {
+    "city": "La Fria"
+  },
+  {
+    "city": "Cumana"
+  },
+  {
+    "city": "Coro"
+  },
+  {
+    "city": "Canaima"
+  },
+  {
+    "city": "Trujillo"
+  },
+  {
+    "city": "Tumbes"
+  },
+  {
+    "city": "Anta"
+  },
+  {
+    "city": "Andahuaylas"
+  },
+  {
+    "city": "Chiclayo"
+  },
+  {
+    "city": "Yola"
+  },
+  {
+    "city": "Sokoto"
+  },
+  {
+    "city": "Rio Hacha"
+  },
+  {
+    "city": "Providencia"
+  },
+  {
+    "city": "Popayan"
+  },
+  {
+    "city": "Manizales"
+  },
+  {
+    "city": "Ipiales"
+  },
+  {
+    "city": "Barrancabermeja"
+  },
+  {
+    "city": "Tumaco"
+  },
+  {
+    "city": "Bahia Solano"
+  },
+  {
+    "city": "Kaduna"
+  },
+  {
+    "city": "Manta"
+  },
+  {
+    "city": "Macas"
+  },
+  {
+    "city": "Jos"
+  },
+  {
+    "city": "Ilorin"
+  },
+  {
+    "city": "Ibadan"
+  },
+  {
+    "city": "Osorno"
+  },
+  {
+    "city": "Vilhena"
+  },
+  {
+    "city": "Uruguaiana"
+  },
+  {
+    "city": "Paulo Alfonso"
+  },
+  {
+    "city": "Tucurui"
+  },
+  {
+    "city": "Tabatinga"
+  },
+  {
+    "city": "Bom Jesus Da Lapa"
+  },
+  {
+    "city": "Cruzeiro do Sul"
+  },
+  {
+    "city": "Corumba"
+  },
+  {
+    "city": "Alta Floresta"
+  },
+  {
+    "city": "Conceicao Do Araguaia"
+  },
+  {
+    "city": "San Martin Des Andes"
+  },
+  {
+    "city": "Sunyani"
+  },
+  {
+    "city": "Puerto Madryn"
+  },
+  {
+    "city": "Viedma"
+  },
+  {
+    "city": "Posadas"
+  },
+  {
+    "city": "Formosa"
+  },
+  {
+    "city": "Resistencia"
+  },
+  {
+    "city": "La Rioja"
+  },
+  {
+    "city": "Santiago Del Estero"
+  },
+  {
+    "city": "Catamarca"
+  },
+  {
+    "city": "Touggourt"
+  },
+  {
+    "city": "Kumejima"
+  },
+  {
+    "city": "Oshima"
+  },
+  {
+    "city": "Hachijojima"
+  },
+  {
+    "city": "Tottori"
+  },
+  {
+    "city": "Izumo"
+  },
+  {
+    "city": "Monbetsu"
+  },
+  {
+    "city": "Nanki-shirahama"
+  },
+  {
+    "city": "Tainan"
+  },
+  {
+    "city": "Fengnin"
+  },
+  {
+    "city": "Tebessa"
+  },
+  {
+    "city": "Panjgur"
+  },
+  {
+    "city": "Gilgit"
+  },
+  {
+    "city": "Khasab"
+  },
+  {
+    "city": "Fujeirah"
+  },
+  {
+    "city": "Sanandaj"
+  },
+  {
+    "city": "Wejh"
+  },
+  {
+    "city": "Turaif"
+  },
+  {
+    "city": "Rafha"
+  },
+  {
+    "city": "Fort Mcpherson"
+  },
+  {
+    "city": "Wanganui"
+  },
+  {
+    "city": "Westport"
+  },
+  {
+    "city": "Whakatane"
+  },
+  {
+    "city": "Timaru"
+  },
+  {
+    "city": "Kaitaia"
+  },
+  {
+    "city": "Kerikeri"
+  },
+  {
+    "city": "Hokitika"
+  },
+  {
+    "city": "Touho"
+  },
+  {
+    "city": "Mare"
+  },
+  {
+    "city": "Kone"
+  },
+  {
+    "city": "Sarnia"
+  },
+  {
+    "city": "Arutua"
+  },
+  {
+    "city": "Takapoto"
+  },
+  {
+    "city": "Makemo"
+  },
+  {
+    "city": "Kaukura Atoll"
+  },
+  {
+    "city": "Sandspit"
+  },
+  {
+    "city": "Totegegie"
+  },
+  {
+    "city": "Pago Pago"
+  },
+  {
+    "city": "Guantanamo"
+  },
+  {
+    "city": "Nosara Beach"
+  },
+  {
+    "city": "Changuinola"
+  },
+  {
+    "city": "Nuevo Laredo"
+  },
+  {
+    "city": "Loreto"
+  },
+  {
+    "city": "Penticton"
+  },
+  {
+    "city": "Chetumal"
+  },
+  {
+    "city": "Guanaja"
+  },
+  {
+    "city": "Medicine Hat"
+  },
+  {
+    "city": "Constanta"
+  },
+  {
+    "city": "Arad"
+  },
+  {
+    "city": "Mostar"
+  },
+  {
+    "city": "Graciosa Island"
+  },
+  {
+    "city": "Brno"
+  },
+  {
+    "city": "Isafjordur"
+  },
+  {
+    "city": "Kastoria"
+  },
+  {
+    "city": "Tuktoyaktuk"
+  },
+  {
+    "city": "Dijon"
+  },
+  {
+    "city": "Quimper"
+  },
+  {
+    "city": "Lannion"
+  },
+  {
+    "city": "Le Havre"
+  },
+  {
+    "city": "Aurillac"
+  },
+  {
+    "city": "Le Puy"
+  },
+  {
+    "city": "Angouleme"
+  },
+  {
+    "city": "Salamanca"
+  },
+  {
+    "city": "Egilsstadir"
+  },
+  {
+    "city": "Mtwara"
+  },
+  {
+    "city": "Arusha"
+  },
+  {
+    "city": "Kamembe"
+  },
+  {
+    "city": "Ghadames"
+  },
+  {
+    "city": "Lethbridge"
+  },
+  {
+    "city": "Ghat"
+  },
+  {
+    "city": "Kitale"
+  },
+  {
+    "city": "Abu Simbel"
+  },
+  {
+    "city": "Maio"
+  },
+  {
+    "city": "Akureyri"
+  },
+  {
+    "city": "Cap Skiring"
+  },
+  {
+    "city": "Tetouan"
+  },
+  {
+    "city": "Al Hociema"
+  },
+  {
+    "city": "Tan Tan"
+  },
+  {
+    "city": "Pickle Lake"
+  },
+  {
+    "city": "Isiro"
+  },
+  {
+    "city": "Gemena"
+  },
+  {
+    "city": "Maseru"
+  },
+  {
+    "city": "Sao Felix do Xingu"
+  },
+  {
+    "city": "Santa Terezinha"
+  },
+  {
+    "city": "Breves"
+  },
+  {
+    "city": "Santana do Araguaia"
+  },
+  {
+    "city": "Zachar Bay"
+  },
+  {
+    "city": "Port Williams"
+  },
+  {
+    "city": "Karluk"
+  },
+  {
+    "city": "Dalanzadgad"
+  },
+  {
+    "city": "Alofi"
+  },
+  {
+    "city": "Lodja"
+  },
+  {
+    "city": "Utila"
+  },
+  {
+    "city": "Massawa"
+  },
+  {
+    "city": "Tulcan"
+  },
+  {
+    "city": "Ovda"
+  },
+  {
+    "city": "Kozani"
+  },
+  {
+    "city": "Kalemie"
+  }
+]

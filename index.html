@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Travellian</title>
+    <script src="app.js" defer></script>
+    <link rel="icon" type="image/scg+xml" href="./img/icons/airplane.svg" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  </head>
+
+  <body>
+    <section class="head">
+      <header class="all-header">
+        <img src="./img/icons/Logo.svg" alt="" />
+
+        <div class="burger">
+          <div class="top-string"></div>
+          <div class="middle-string"></div>
+          <div class="bottom-string"></div>
+        </div>
+        <div class="header">
+          <div>
+            <ul class="header__menu">
+              <li>Home</li>
+              <li>Explore</li>
+              <li>Travel</li>
+              <li>Blog</li>
+              <li>Pricing</li>
+            </ul>
+          </div>
+          <div class="header__buttons">
+            <button class="header__btn">Login</button>
+            <button class="header__btn">Sign up</button>
+          </div>
+        </div>
+      </header>
+      <div class="title">
+        <div class="title__main">Start your unforgettable journey with us.</div>
+        <p class="title__sub">The best travel for your journey begins now</p>
+      </div>
+      <div class="form__container">
+        <form class="form__head" action="">
+          <div class="">
+            <div class="form__input">
+              <label for="destination">Destination</label>
+              <input
+                type="text"
+                id="destination"
+                name="destination"
+                oninput="searchDestination()" />
+            </div>
+            <div id="results" class="results"></div>
+          </div>
+          <div class="form__input">
+            <label for="person">Person</label>
+            <input type="number" id="person" name="person" min="1" value="1" />
+          </div>
+          <div class="form__input">
+            <label for="checkin">Check in</label>
+            <input type="date" id="checkin" name="checkin" />
+          </div>
+          <div class="form__input">
+            <label for="checkout">Check out</label>
+            <input type="date" id="checkout" name="checkout" />
+          </div>
+        </form>
+        <button class="form__btn">Book Now</button>
+      </div>
+    </section>
+    <div class="swiper swiper-head">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <img src="./img/head-backgr.jpeg" alt="" />
+        </div>
+        <div class="swiper-slide">
+          <img src="./img/head-backgr2.jpg" alt="" />
+        </div>
+        <div class="swiper-slide">
+          <img src="./img/head-backgr3.jpg" alt="" />
+        </div>
+        <div class="swiper-slide">
+          <img src="./img/head-backgr4.jpg" alt="" />
+        </div>
+      </div>
+    </div>
+
+    <section class="main">
+      <div class="destinations">
+        <div class="destinations__head">
+          <h2 class="head-title">Popular Destinations</h2>
+          <div class="bottom-line"></div>
+          <p class="head-text">
+            Most popular destinations around the world, from historical places
+            to natural wonders.
+          </p>
+        </div>
+        <div class="modal">
+          <div class="modal-content">
+            <div class="close">&times;</div>
+            <h4 class="destination-title">Monument of Berlin</h4>
+            <p class="destination-description">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut autem
+              sit tempore sapiente cupiditate necessitatibus deleniti, fugit
+              fuga molestias, consectetur possimus eos, fugiat id. Aliquid
+              deleniti esse optio vitae nesciunt est incidunt distinctio
+              deserunt excepturi consequatur maxime perspiciatis quibusdam
+              officiis autem suscipit dicta tempora asperiores ea, iste
+              provident! Praesentium, architecto!Lorem ipsum dolor, sit amet
+              consectetur adipisicing elit. Ut autem sit tempore sapiente
+              cupiditate necessitatibus deleniti, fugit fuga molestias,
+              consectetur possimus eos, fugiat id. Aliquid deleniti esse optio
+              vitae nesciunt est incidunt distinctio deserunt excepturi
+              consequatur maxime perspiciatis quibusdam officiis autem suscipit
+              dicta tempora asperiores ea, iste provident! Praesentium,
+              architecto!
+            </p>
+          </div>
+        </div>
+        <div class="inner">
+          <div class="swiper swiper-destination">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide slide-destination">
+                <img class="destination-img" src="./img/berlin.jpeg" alt="" />
+                <div class="destination-text">
+                  <h4 class="destination-sight">Monument of Berlin</h4>
+                  <p class="destination-city">Berlin, Germany</p>
+                </div>
+              </div>
+              <div class="swiper-slide slide-destination">
+                <img class="destination-img" src="./img/london.jpeg" alt="" />
+                <div class="destination-text">
+                  <h4 class="destination-sight">Millennium Bridge</h4>
+                  <p class="destination-city">London, United Kingdom</p>
+                </div>
+              </div>
+              <div class="swiper-slide slide-destination">
+                <img class="destination-img" src="./img/italy.jpeg" alt="" />
+                <div class="destination-text">
+                  <h4 class="destination-sight">Rialto Bridge</h4>
+                  <p class="destination-city">Venice, Italy</p>
+                </div>
+              </div>
+              <div class="swiper-slide slide-destination">
+                <img class="destination-img" src="./img/berlin.jpeg" alt="" />
+                <div class="destination-text">
+                  <h4 class="destination-sight">Monument of Berlin</h4>
+                  <p class="destination-city">Berlin, Germany</p>
+                </div>
+              </div>
+              <div class="swiper-slide slide-destination">
+                <img class="destination-img" src="./img/lisbon.jpeg" alt="" />
+                <div class="destination-text">
+                  <h4 class="destination-sight">Sea of Orange Tiles</h4>
+                  <p class="destination-city">Lisbon, Portugal</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-button-prev prev-destination"></div>
+          <div class="swiper-button-next next-destination"></div>
+        </div>
+      </div>
+      <div class="offer">
+        <div class="offer__head">
+          <h2 class="head-title">Special Offer</h2>
+          <div class="bottom-line"></div>
+          <h4 class="head-text">Check out our special offer and discounts</h4>
+        </div>
+        <div class="inner">
+          <div class="swiper swiper-offer">
+            <div class="swiper-wrapper offer-wrapper">
+              <div class="swiper-slide slide-offer">
+                <img class="offer-img" src="./img/portugal.jpeg" alt="" />
+                <div class="offer-info">
+                  <span class="offer-title">Lisbon, Portugal</span>
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <p class="offer-text">
+                    5 nights and 4 days in 5 star hotel, breakfast and lunch
+                    included. Very popular during the renaissance. Passage and
+                    going through the cites of the world in classical
+                    literature.
+                  </p>
+                  <div class="offer-footer">
+                    <p>From <span class="offer-price">€500</span></p>
+                    <button class="offer-btn">Details</button>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <img class="offer-img" src="./img/greece.jpeg" alt="" />
+                <div class="offer-info">
+                  <span class="offer-title">Athens, Greece</span>
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <p class="offer-text">
+                    5 nights and 4 days in 5 star hotel, breakfast and lunch
+                    included. Very popular during the renaissance. Passage and
+                    going through the cites of the world in classical
+                    literature.
+                  </p>
+                  <div class="offer-footer">
+                    <p>From <span class="offer-price">€800</span></p>
+                    <button class="offer-btn">Details</button>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <img class="offer-img" src="./img/rome.jpeg" alt="" />
+                <div class="offer-info">
+                  <span class="offer-title">Rome, Italy</span>
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <p class="offer-text">
+                    5 nights and 4 days in 5 star hotel, breakfast and lunch
+                    included. Very popular during the renaissance. Passage and
+                    going through the cites of the world in classical
+                    literature.
+                  </p>
+                  <div class="offer-footer">
+                    <p>From <span class="offer-price">€750</span></p>
+                    <button class="offer-btn">Details</button>
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <img class="offer-img" src="./img/greece.jpeg" alt="" />
+                <div class="offer-info">
+                  <span class="offer-title">Athens, Greece</span>
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <p class="offer-text">
+                    5 nights and 4 days in 5 star hotel, breakfast and lunch
+                    included. Very popular during the renaissance. Passage and
+                    going through the cites of the world in classical
+                    literature.
+                  </p>
+                  <div class="offer-footer">
+                    <p>From <span class="offer-price">€800</span></p>
+                    <button class="offer-btn">Details</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-button-prev prev-offer"></div>
+          <div class="swiper-button-next next-offer"></div>
+        </div>
+      </div>
+      <div class="blog">
+        <div class="blog__head">
+          <h2 class="head-title">Our Blog</h2>
+          <div class="bottom-line"></div>
+          <h4 class="head-text">
+            An insight the incredible experience in the world
+          </h4>
+        </div>
+        <div class="blog__info">
+          <div class="blog-img"><img src="./img/blog.jpeg" alt="" /></div>
+          <div class="blog-text">
+            <h3 class="blog-title">Beautiful Italy</h3>
+            <h3 class="blog-title">Let’s travel</h3>
+            <p class="blog-preview">
+              But I must explain to you how all this mistaken idea of denouncing
+              pleasure and praising pain was born and I will give you a complete
+              account of the system and expound the actual teachings of the
+              great explorer of the truth, the master- builder of human
+              happiness. No one rejects, dislike, or avoids plasure itself,
+              because it is pleasure, but because those who do not know how to
+              pursue pleasure rationally encounter consequences that are
+              extremly painful. Nor again is there anyone who loves or pursues.
+            </p>
+            <a class="blog-link" href="">Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="trip">
+        <div class="trip-text">
+          <h2 class="head-title">Trip Planners</h2>
+          <div class="bottom-line"></div>
+          <p class="head-text">
+            20 years from now you will be more disappointed by the things that
+            you didn’t do. Stop regretting and start travelling, start throwing
+            off the bowlines.
+          </p>
+          <button class="trip-btn">View all trip plans</button>
+        </div>
+        <div class="swiper swiper-trip">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide slide-trip">
+              <img class="trip-img" src="./img/trip1.jpeg" alt="" />
+              <div class="trip-info">
+                <div class="price">
+                  <span>GUIDED TOUR</span><span>€99/Day</span>
+                </div>
+                <div class="tour-name"><span>Rome City Tour</span></div>
+                <div class="stars">
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <span>7 Days tour</span>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide slide-trip">
+              <img class="trip-img" src="./img/trip2.jpeg" alt="" />
+              <div class="trip-info">
+                <div class="price">
+                  <span>GUIDED TOUR</span><span>€95/Day</span>
+                </div>
+                <div class="tour-name"><span>Paris City Tour</span></div>
+                <div class="stars">
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <span>7 Days tour</span>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide slide-trip">
+              <img class="trip-img" src="./img/trip4.jpeg" alt="" />
+              <div class="trip-info">
+                <div class="price">
+                  <span>GUIDED TOUR</span><span>€89/Day</span>
+                </div>
+                <div class="tour-name"><span>Budapest City Tour</span></div>
+                <div class="stars">
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <span>7 Days tour</span>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide slide-trip">
+              <img class="trip-img" src="./img/trip3.jpeg" alt="" />
+              <div class="trip-info">
+                <div class="price">
+                  <span>GUIDED TOUR</span><span>€89/Day</span>
+                </div>
+                <div class="tour-name"><span>Barselona City Tour</span></div>
+                <div class="stars">
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <span>7 Days tour</span>
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide slide-trip">
+              <img class="trip-img" src="./img/trip4.jpeg" alt="" />
+              <div class="trip-info">
+                <div class="price">
+                  <span>GUIDED TOUR</span><span>€89/Day</span>
+                </div>
+                <div class="tour-name"><span>Budapest City Tour</span></div>
+                <div class="stars">
+                  <span class="trip-star">
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                    <img src="./img/icons/star.svg" alt="" />
+                  </span>
+                  <span>7 Days tour</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inner">
+        <div class="gallery">
+          <h2 class="head-title">Destination Gallery</h2>
+          <div class="bottom-line"></div>
+          <p class="head-text">Our photo gallery on trip</p>
+          <div class="swiper swiper-gallery">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="./img/gal1.jpeg" alt="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="./img/gal2.jpeg" alt="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="./img/gal3.jpeg" alt="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="./img/gal1.jpeg" alt="" />
+              </div>
+              <div class="swiper-slide">
+                <img src="./img/gal4.jpeg" alt="" />
+              </div>
+            </div>
+          </div>
+          <div class="swiper-button-prev prev-gallery"></div>
+          <div class="swiper-button-next next-gallery"></div>
+        </div>
+      </div>
+      <div class="experience">
+        <h2 class="head-title">Traveler’s Experiences</h2>
+        <div class="bottom-line"></div>
+        <p class="head-text">Here some awesome feedback from our travelers</p>
+        <div class="inner">
+          <div class="swiper swiper-experience">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="./img/ava1.png" alt="" />
+                <div class="ava-text">
+                  <p>
+                    But I must explain to you how all this mistaken idea of
+                    denouncing pleasure and praising pain was born and I will
+                    give you a complete account of the system and expound the
+                    actual teachings of the great explorer of the truth, the
+                    master- builder of human happiness.
+                  </p>
+                  <p class="ava-star">
+                    <img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" />
+                  </p>
+                  <p class="ava-name">John Doe</p>
+                  <p>Accountant</p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <img src="./img/ava2.png" alt="" />
+                <div class="ava-text">
+                  <p>
+                    But I must explain to you how all this mistaken idea of
+                    denouncing pleasure and praising pain was born and I will
+                    give you a complete account of the system and expound the
+                    actual teachings of the great explorer of the truth, the
+                    master- builder of human happiness.
+                  </p>
+                  <p class="ava-star">
+                    <img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" />
+                  </p>
+                  <p class="ava-name">John Smith</p>
+                  <p>Journalist, HWO News</p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <img src="./img/ava3.png" alt="" />
+                <div class="ava-text">
+                  <p>
+                    But I must explain to you how all this mistaken idea of
+                    denouncing pleasure and praising pain was born and I will
+                    give you a complete account of the system and expound the
+                    actual teachings of the great explorer of the truth, the
+                    master- builder of human happiness.
+                  </p>
+                  <p class="ava-star">
+                    <img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" />
+                  </p>
+                  <p class="ava-name">Tamara Bellis</p>
+                  <p>Managing Director, JTH</p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <img src="./img/ava1.png" alt="" />
+                <div class="ava-text">
+                  <p>
+                    But I must explain to you how all this mistaken idea of
+                    denouncing pleasure and praising pain was born and I will
+                    give you a complete account of the system and expound the
+                    actual teachings of the great explorer of the truth, the
+                    master- builder of human happiness.
+                  </p>
+                  <p class="ava-star">
+                    <img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" /><img
+                      src="./img/icons/star.svg"
+                      alt="" /><img src="./img/icons/star.svg" alt="" />
+                  </p>
+                  <p class="ava-name">John Doe</p>
+                  <p>Accountant</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-button-prev prev-experience"></div>
+          <div class="swiper-button-next next-experience"></div>
+        </div>
+        <form class="newsletter-form" action="" method="post">
+          <h2 class="newsletter-title">Our Newsletter</h2>
+          <div class="email-block">
+            <div class="email">
+              <label for="newsletter">Email</label>
+              <input
+                type="email"
+                id="newsletter"
+                name="newsletter"
+                placeholder="Enter your email" />
+            </div>
+            <button class="email-btn">Subscribe</button>
+          </div>
+        </form>
+      </div>
+    </section>
+    <footer class="footer">
+      <div class="contacts">
+        <div class="contacts__logo">
+          <img src="./img/icons/Logo.svg" alt="" />
+          <p class="copyright">
+            Copyright © Travellian 2020 All rights reserved
+          </p>
+        </div>
+        <div class="contacts__menu">
+          <h4 class="contacts-title">Menu</h4>
+          <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">Explore</a></li>
+            <li><a href="">Travel</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="">Pricing</a></li>
+          </ul>
+        </div>
+        <div class="contacts__information">
+          <h4 class="contacts-title">Information</h4>
+          <ul>
+            <li><a href="">Destinations</a></li>
+            <li><a href="">Supports</a></li>
+            <li><a href="">Terms and Conditions</a></li>
+            <li><a href="">Privacy</a></li>
+          </ul>
+        </div>
+        <div class="contacts__contact-info">
+          <h4 class="contacts-title">Contact Info</h4>
+          <ul>
+            <li><a href="tel: +123 456 789">+123 456 789</a></li>
+            <li>
+              <a href="mailto: info@travellian.com">info@travellian.com</a>
+            </li>
+            <li>1245, New Yourk, USA</li>
+          </ul>
+        </div>
+        <div class="contacts__follow">
+          <h4 class="contacts-title">Follow us on</h4>
+          <ul class="follow-icons">
+            <li>
+              <a href=""><img src="./img/icons/facebook.svg" alt="" /></a>
+            </li>
+            <li>
+              <a href=""><img src="./img/icons/pinterest.svg" alt="" /></a>
+            </li>
+            <li>
+              <a href=""><img src="./img/icons/instagram.svg" alt="" /></a>
+            </li>
+            <li>
+              <a href=""><img src="./img/icons/twitter.svg" alt="" /></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
